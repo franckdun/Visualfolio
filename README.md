@@ -17,13 +17,13 @@ Here is all of my projects visible at a glance.</h1>
        		<img align="center" src="https://github.com/franckdun/ParaScroll/blob/main/img/readme.PNG" alt="franckdun" /></a> </p>		
 	   </td>
 	   <td width="25%">
-        	<h2 align="center">🔥ParaScroll🔥</h2>
+        	<h3 align="center">🔥Super-dashgum🔥</h3>
         	<p align="center">
-        	<a href="https://franckdun.github.io/ParaScroll/" target="_blank" rel="noreferrer"> 
-       		<img align="center" src="https://github.com/franckdun/ParaScroll/blob/main/img/readme.PNG" alt="franckdun" /></a> </p>		   
+        	<a href="https://franckdun.github.io/Super-dashgum/" target="_blank" rel="noreferrer"> 
+       		<img align="center" src="https://github.com/franckdun/Super-dashgum/blob/main/readme.PNG" alt="franckdun" /></a> </p>		   
 	   </td>       
 	   <td width="25%">
-		<h2 align="center">🔥ParaScroll🔥</h2>
+		<h3 align="center">🔥ParaScroll🔥</h3>
         	<p align="center">
         	<a href="https://franckdun.github.io/ParaScroll/" target="_blank" rel="noreferrer"> 
        		<img align="center" src="https://github.com/franckdun/ParaScroll/blob/main/img/readme.PNG" alt="franckdun" /></a> </p>		
