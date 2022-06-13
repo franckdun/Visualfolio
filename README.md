@@ -27,9 +27,9 @@
        		<img align="center" src="https://github.com/franckdun/Super-dashgum/blob/main/readme.PNG" alt="franckdun" /></a> </p>		   
 	   </td>       
 	   <td width="25%">
-		<p align="center">🔥ParaScroll🔥</p>
+		<p align="center">🔥responHomePage🔥</p>
         	<p align="center">
-        	<a href="https://franckdun.github.io/ParaScroll/" target="_blank" rel="noreferrer"> 
+        	<a href="https://franckdun.github.io/responHomePage/" target="_blank" rel="noreferrer"> 
        		<img align="center" src="https://github.com/franckdun/responHomePage/blob/main/img/readme.PNG" alt="franckdun" /></a> </p>		
 	   </td>     
      	   <td width="25%">
