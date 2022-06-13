@@ -1,4 +1,15 @@
 # Visual Portfolio
+
+> **Note**
+> 
+> en travaux
+
+> **Warning**
+> 
+> éviter d'y mettre les pieds
+> 
+> a vos risques et péryles
+
 <!-- presentation -->
 <div align="center">
   <table>
