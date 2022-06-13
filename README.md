@@ -1,11 +1,4 @@
-# VisualPortfolio
-
-
-<!-- Intro phrase HI !--> 
- 
-<h1 align="center"><a href="https://franckdun.github.io/002_Anim-texte-js/" target="blank" width="76.5px" text-decoration="strong" >&#9568;&#9571; &#9553; &#8252;</a> <br><br>
-Here is all of my projects visible at a glance.</h1>
-
+# Visual Portfolio
 <!-- presentation -->
 <div align="center">
   <table>
