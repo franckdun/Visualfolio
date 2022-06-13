@@ -127,22 +127,6 @@ function autonomousWorld() {
  return console.log("Sorry, i can do nothing for save the world.");
 }
 ```
-<!-- reseaux sociaux -->
-
-[![img_contact](./img/globe-light.svg)](https://github.com/franckdun/ImageBanck/blob/main/img/lofimax.gif/i/#gh-light-mode-only)
-[![img_contact](./img/globe-dark.svg)](https://github.com/franckdun/ImageBanck/blob/main/img/lofimax.gif/i/#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![img_contact](./img/twitter-light.svg)](https://github.com/franckdun/ImageBanck/blob/main/img/lofimax.gif/i/#gh-light-mode-only)
-[![img_contact](./img/twitter-dark.svg)](https://github.com/franckdun/ImageBanck/blob/main/img/lofimax.gif/i/#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![img_contact](./img/youtube-light.svg)](https://github.com/franckdun/ImageBanck/blob/main/img/lofimax.gif/i/#gh-light-mode-only)
-[![img_contact](./img/youtube-dark.svg)](https://github.com/franckdun/ImageBanck/blob/main/img/lofimax.gif/i/#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![img_contact](./img/linkedin-light.svg)](https://github.com/franckdun/ImageBanck/blob/main/img/lofimax.gif/i/#gh-light-mode-only)
-[![img_contact](./img/linkedin-dark.svg)](https://github.com/franckdun/ImageBanck/blob/main/img/lofimax.gif/i/#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![img_contact](./img/instagram-light.svg)](https://github.com/franckdun/ImageBanck/blob/main/img/lofimax.gif/i/#gh-light-mode-only)
-[![img_contact](./img/instagram-dark.svg)](https://github.com/franckdun/ImageBanck/blob/main/img/lofimax.gif/i/#gh-dark-mode-only)
 
 
 <!-- nombre de vue -->
