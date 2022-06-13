@@ -15,28 +15,28 @@
   <table>
 	<tr>  
 	   <td width="25%">
-		<h2 align="center">🔥ParaScroll🔥</h2>
+		<p align="center">🔥ParaScroll🔥</p>
         	<p align="center">
         	<a href="https://franckdun.github.io/ParaScroll/" target="_blank" rel="noreferrer"> 
        		<img align="center" src="https://github.com/franckdun/ParaScroll/blob/main/img/readme.PNG" alt="franckdun" /></a> </p>		
 	   </td>
 	   <td width="25%">
-        	<h3 align="center">🔥Super-dashgum🔥</h3>
+        	<p align="center">🔥Super-dashgum🔥</p>
         	<p align="center">
         	<a href="https://franckdun.github.io/Super-dashgum/" target="_blank" rel="noreferrer"> 
        		<img align="center" src="https://github.com/franckdun/Super-dashgum/blob/main/readme.PNG" alt="franckdun" /></a> </p>		   
 	   </td>       
 	   <td width="25%">
-		<h3 align="center">🔥ParaScroll🔥</h3>
+		<p align="center">🔥ParaScroll🔥</p>
         	<p align="center">
         	<a href="https://franckdun.github.io/ParaScroll/" target="_blank" rel="noreferrer"> 
        		<img align="center" src="https://github.com/franckdun/responHomePage/blob/main/img/readme.PNG" alt="franckdun" /></a> </p>		
 	   </td>     
      	   <td width="25%">
-        	<h2 align="center">🔥ParaScroll🔥</h2>
+        	<p align="center">🔥Water-Ripple🔥</p>
         	<p align="center">
-        	<a href="https://franckdun.github.io/responHomePage/" target="_blank" rel="noreferrer"> 
-      		<img align="center" src="https://github.com/franckdun/ParaScroll/blob/main/img/readme.PNG" alt="franckdun" /></a> </p>		   
+        	<a href="https://franckdun.github.io/water-Ripple" target="_blank" rel="noreferrer"> 
+      		<img align="center" src="https://github.com/franckdun/water-Ripple/blob/main/img/readme.PNG" alt="franckdun" /></a> </p>		   
 	   </td>      
 	 </tr>
  </table>
