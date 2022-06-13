@@ -26,12 +26,12 @@ Here is all of my projects visible at a glance.</h1>
 		<h3 align="center">🔥ParaScroll🔥</h3>
         	<p align="center">
         	<a href="https://franckdun.github.io/ParaScroll/" target="_blank" rel="noreferrer"> 
-       		<img align="center" src="https://github.com/franckdun/ParaScroll/blob/main/img/readme.PNG" alt="franckdun" /></a> </p>		
+       		<img align="center" src="https://github.com/franckdun/responHomePage/blob/main/img/readme.PNG" alt="franckdun" /></a> </p>		
 	   </td>     
      	   <td width="25%">
         	<h2 align="center">🔥ParaScroll🔥</h2>
         	<p align="center">
-        	<a href="https://franckdun.github.io/ParaScroll/" target="_blank" rel="noreferrer"> 
+        	<a href="https://franckdun.github.io/responHomePage/" target="_blank" rel="noreferrer"> 
       		<img align="center" src="https://github.com/franckdun/ParaScroll/blob/main/img/readme.PNG" alt="franckdun" /></a> </p>		   
 	   </td>      
 	 </tr>
@@ -137,19 +137,31 @@ Here is all of my projects visible at a glance.</h1>
 <div align="center">
   <table>
 	<tr>  
-	   <td width="50%">
-		    <h2 align="center">🔥<a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height=" 40"/> </a>🔥</h2>
-        <p align="center">
-        <a href="https://franckdun.github.io/ParaScroll/" target="_blank" rel="noreferrer"> 
-       <img align="center" src="https://github.com/franckdun/ParaScroll/blob/main/img/readme.PNG" alt="franckdun" /></a> </p>		
+	   <td width="25%">
+		<h2 align="center">🔥<a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height=" 40"/> </a>🔥</h2>
+        	<p align="center">
+        	<a href="https://franckdun.github.io/ParaScroll/" target="_blank" rel="noreferrer"> 
+       		<img align="center" src="https://github.com/franckdun/ParaScroll/blob/main/img/readme.PNG" alt="franckdun" /></a> </p>		
 	   </td>     
-     <td width="50%">
-        <h2 align="center">🔥<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="réagir" width="40" height="40"/> </a>🔥</h2>
-        <p align="center">
-        <a href="https://franckdun.github.io/ParaScroll/" target="_blank" rel="noreferrer"> 
-       <img align="center" src="https://github.com/franckdun/ParaScroll/blob/main/img/readme.PNG" alt="franckdun" /></a> </p>		   
-	   </td>      
-	 </tr>     
+     	   <td width="25%">
+                <h2 align="center">🔥<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons  /devicon/master/icons/react/react-original-wordmark.svg" alt="réagir" width="40" height="40"/> </a>🔥</h2>
+                <p align="center">
+                <a href="https://franckdun.github.io/ParaScroll/" target="_blank" rel="noreferrer"> 
+       		<img align="center" src="https://github.com/franckdun/ParaScroll/blob/main/img/readme.PNG" alt="franckdun" /></a> </p>		   
+	   </td>
+	   	   <td width="25%">
+		<h2 align="center">🔥<a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height=" 40"/> </a>🔥</h2>
+        	<p align="center">
+        	<a href="https://franckdun.github.io/ParaScroll/" target="_blank" rel="noreferrer"> 
+       		<img align="center" src="https://github.com/franckdun/ParaScroll/blob/main/img/readme.PNG" alt="franckdun" /></a> </p>		
+	   </td>     
+     	   <td width="25%">
+                <h2 align="center">🔥<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons  /devicon/master/icons/react/react-original-wordmark.svg" alt="réagir" width="40" height="40"/> </a>🔥</h2>
+                <p align="center">
+                <a href="https://franckdun.github.io/ParaScroll/" target="_blank" rel="noreferrer"> 
+       		<img align="center" src="https://github.com/franckdun/ParaScroll/blob/main/img/readme.PNG" alt="franckdun" /></a> </p>		   
+	   </td>	
+	</tr>     
  </table>
 </div>
 
