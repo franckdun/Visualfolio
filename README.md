@@ -150,13 +150,13 @@ Here is all of my projects visible at a glance.</h1>
        		<img align="center" src="https://github.com/franckdun/ParaScroll/blob/main/img/readme.PNG" alt="franckdun" /></a> </p>		   
 	   </td>
 	   	   <td width="25%">
-		<h2 align="center">🔥<a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height=" 40"/> </a>🔥</h2>
+		<h2 align="center">🔥<a href="https://docs.soliditylang.org/en/v0.8.14/" target="_blank" rel="noreferrer"> <img src="https://github.com/franckdun/SCP_2022/blob/main/img/logo.jpg" alt="xd" width="40" height="40"/> </a>🔥</h2>
         	<p align="center">
         	<a href="https://franckdun.github.io/ParaScroll/" target="_blank" rel="noreferrer"> 
        		<img align="center" src="https://github.com/franckdun/ParaScroll/blob/main/img/readme.PNG" alt="franckdun" /></a> </p>		
 	   </td>     
      	   <td width="25%">
-                <h2 align="center">🔥<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons  /devicon/master/icons/react/react-original-wordmark.svg" alt="réagir" width="40" height="40"/> </a>🔥</h2>
+                <h2 align="center">🔥<a href="#" target="_blank" rel="noreferrer"> <img src="https://github.com/franckdun/BEN-BK/blob/main/img/logo-BEN.jpg" alt="réagir" width="40" height="40"/> </a>🔥</h2>
                 <p align="center">
                 <a href="https://franckdun.github.io/ParaScroll/" target="_blank" rel="noreferrer"> 
        		<img align="center" src="https://github.com/franckdun/ParaScroll/blob/main/img/readme.PNG" alt="franckdun" /></a> </p>		   
