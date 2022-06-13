@@ -51,10 +51,10 @@
        		<img align="center" src="https://github.com/franckdun/3DMenu/blob/main/img/readme01.PNG" alt="franckdun" /></a> </p>		
 	   </td>
 	   <td width="25%">
-        	<p align="center">🔥ParaScroll🔥</p>
+        	<p align="center">🔥Bgd_gradient001🔥</p>
         	<p align="center">
-        	<a href="https://franckdun.github.io/ParaScroll/" target="_blank" rel="noreferrer"> 
-       		<img align="center" src="https://github.com/franckdun/ParaScroll/blob/main/img/readme.PNG" alt="franckdun" /></a> </p>		   
+        	<a href="https://franckdun.github.io/Bgd_gradient001/" target="_blank" rel="noreferrer"> 
+       		<img align="center" src="https://github.com/franckdun/Bgd_gradient001/blob/main/img/readme.PNG" alt="franckdun" /></a> </p>		   
 	   </td>       
 	   <td width="25%">
 		<p align="center">🔥ParaScroll🔥</p>
