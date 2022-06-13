@@ -175,9 +175,11 @@ Here is all of my projects visible at a glance.</h1>
 	   </td>     
      	   <td width="25%">
                 <h2 align="center">🔥<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/franckdun/Img-Banck/blob/main/img/openclassrooms001.png" alt="réagir" width="90" height="40"/> </a>🔥</h2>
-                <p align="center">
-                <a href="https://franckdun.github.io/ParaScroll/" target="_blank" rel="noreferrer"> 
-       		<img align="center" src="https://github.com/franckdun/ParaScroll/blob/main/img/readme.PNG" alt="franckdun" /></a> </p>		   
+		   
+* [git et githut]()	
+* [javascript]()	
+* [scss et Sass]()
+* [Webpack]()	   
 	   </td>
 	   	   <td width="25%">
 		<h2 align="center">🔥<a href="https://docs.soliditylang.org/en/v0.8.14/" target="_blank" rel="noreferrer"> <img src="https://github.com/franckdun/SCP_2022/blob/main/img/logo.jpg" alt="xd" width="40" height="40"/> </a>🔥</h2>
