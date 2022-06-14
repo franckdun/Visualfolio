@@ -103,10 +103,10 @@
   <table>
 	<tr>  
 	   <td width="25%">
-		<h2 align="center">🔥ParaScroll🔥</h2>
+		<h2 align="center">🔥002_Anim-texte-js🔥</h2>
         	<p align="center">
-        	<a href="https://franckdun.github.io/ParaScroll/" target="_blank" rel="noreferrer"> 
-       		<img align="center" src="https://github.com/franckdun/ParaScroll/blob/main/img/readme.PNG" alt="franckdun" /></a> </p>		
+        	<a href="https://franckdun.github.io/002_Anim-texte-js/" target="_blank" rel="noreferrer"> 
+       		<img align="center" src="https://github.com/franckdun/002_Anim-texte-js/blob/main/img/AnimReact.PNG" alt="franckdun" /></a> </p>	
 	   </td>
 	   <td width="25%">
         	<h2 align="center">🔥ParaScroll🔥</h2>
