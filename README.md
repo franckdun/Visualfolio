@@ -1,12 +1,11 @@
 # Visual Portfolio
 
 > **Note**
-> certains projets ne sont pas visible en Live
-> 
+> Non visible en Live.
 
 > **Warning**
-> certains projets sont en travaux
-> 
+> En travaux.
+
 
 <!-- presentation -->
 <div align="center">
@@ -79,7 +78,7 @@
        		<img align="center" src="https://github.com/franckdun/curseur-perso/blob/main/src/Curseur-pointeur.PNG" alt="franckdun" /></a> </p>		
 	   </td>
 	   <td width="25%">
-        	<p align="center">🔥jeu-de-devinette🔥</p>
+        	<p align="center">⚠️jeu-de-devinette🔥</p>
         	<p align="center">
         	<a href="https://franckdun.github.io/jeu-de-devinette/" target="_blank" rel="noreferrer"> 
        		<img align="center" src="https://user-images.githubusercontent.com/40036047/168306592-3b653d14-901c-4d0d-8cb3-957937ae6284.PNG" alt="franckdun" /></a> </p>		   
@@ -109,10 +108,10 @@
        		<img align="center" src="https://github.com/franckdun/002_Anim-texte-js/blob/main/img/AnimReact.PNG" alt="franckdun" /></a> </p>	
 	   </td>
 	   <td width="25%">
-        	<h2 align="center">🔥ParaScroll🔥</h2>
+        	<h2 align="center">🔥cours-react-1ℹ️</h2>
         	<p align="center">
-        	<a href="https://franckdun.github.io/ParaScroll/" target="_blank" rel="noreferrer"> 
-       		<img align="center" src="https://github.com/franckdun/ParaScroll/blob/main/img/readme.PNG" alt="franckdun" /></a> </p>		   
+        	<a href="https://github.com/franckdun/cours-react-1" target="_blank" rel="noreferrer"> 
+       		<img align="center" src="https://user-images.githubusercontent.com/40036047/169093863-fbe8a43c-ae11-4d0e-8a8a-36a230efc3ec.PNG" alt="franckdun" /></a> </p>		   
 	   </td>       
 	   <td width="25%">
 		<h2 align="center">🔥ParaScroll🔥</h2>
