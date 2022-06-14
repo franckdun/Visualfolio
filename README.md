@@ -152,7 +152,7 @@
      	   <td width="25%">
         	<p align="center">🔥Menu_responsive_002🔥</p>
         	<p align="center">
-        	<a href="https://franckdun.github.io/Menu_responsive_002/" target="_blank" rel="noreferrer"> 
+        	<a href="https://franckdun.github.io/Menu_responsive_002" target="_blank" rel="noreferrer"> 
       		<img align="center" src="https://github.com/franckdun/Menu_responsive_002/blob/main/img/readme.PNG" alt="franckdun" /></a> </p>		   
 	   </td>      
 	 </tr>
