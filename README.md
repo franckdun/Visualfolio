@@ -120,7 +120,7 @@
        		<img align="center" src="https://github.com/franckdun/react-deploy-001/blob/main/src/antonio.gif" alt="franckdun" /></a> </p>		
 	   </td>     
      	   <td width="25%">
-        	<p align="center">🔥🔥</p>
+        	<p align="center">🔥accueil-canadien🔥</p>
         	<p align="center">
         	<a href="https://franckdun.github.io/accueil-canadien/" target="_blank" rel="noreferrer"> 
       		<img align="center" src="https://user-images.githubusercontent.com/40036047/167667895-54ec707c-0681-4096-83df-7f92346f0b4b.PNG" alt="franckdun" /></a> </p>		   
