@@ -102,25 +102,25 @@
   <table>
 	<tr>  
 	   <td width="25%">
-		<h2 align="center">🔥002_Anim-texte-js🔥</h2>
+		<p align="center">🔥002_Anim-texte-js🔥</p>
         	<p align="center">
         	<a href="https://franckdun.github.io/002_Anim-texte-js/" target="_blank" rel="noreferrer"> 
        		<img align="center" src="https://github.com/franckdun/002_Anim-texte-js/blob/main/img/AnimReact.PNG" alt="franckdun" /></a> </p>	
 	   </td>
 	   <td width="25%">
-        	<h2 align="center">🔥cours-react-1ℹ️</h2>
+        	<p align="center">🔥cours-react-1ℹ️</p>
         	<p align="center">
         	<a href="https://github.com/franckdun/cours-react-1" target="_blank" rel="noreferrer"> 
        		<img align="center" src="https://user-images.githubusercontent.com/40036047/169093863-fbe8a43c-ae11-4d0e-8a8a-36a230efc3ec.PNG" alt="franckdun" /></a> </p>		   
 	   </td>       
 	   <td width="25%">
-		<h2 align="center">🔥ParaScroll🔥</h2>
+		<p align="center">🔥react-deploy-001🔥</p>
         	<p align="center">
-        	<a href="https://franckdun.github.io/ParaScroll/" target="_blank" rel="noreferrer"> 
-       		<img align="center" src="https://github.com/franckdun/ParaScroll/blob/main/img/readme.PNG" alt="franckdun" /></a> </p>		
+        	<a href="https://franckdun.github.io/react-deploy-001/" target="_blank" rel="noreferrer"> 
+       		<img align="center" src="https://github.com/franckdun/react-deploy-001/blob/main/src/antonio.gif" alt="franckdun" /></a> </p>		
 	   </td>     
      	   <td width="25%">
-        	<h2 align="center">🔥ParaScroll🔥</h2>
+        	<p align="center">🔥ParaScroll🔥</p>
         	<p align="center">
         	<a href="https://franckdun.github.io/ParaScroll/" target="_blank" rel="noreferrer"> 
       		<img align="center" src="https://github.com/franckdun/ParaScroll/blob/main/img/readme.PNG" alt="franckdun" /></a> </p>		   
