@@ -58,8 +58,7 @@
 		<p align="center">⚠️Background Etoilesℹ️</p>
         	<p align="center">
         	<a href="https://franckdun.github.io/BackgroundEtoiles/" target="_blank" rel="noreferrer"> 
-       		<img align="center" src="https://github.com/franckdun/Bgd_Etoiles/blob/main/src/img/stars.png" alt="franckdun" /></a> </p>
-		   
+       		<img align="center" src="https://github.com/franckdun/Bgd_Etoiles/blob/main/src/img/stars.png" alt="franckdun" /></a> </p>	   
 	   </td>     
      	   <td width="25%">
         	<p align="center">🔥button3D🔥</p>
@@ -95,8 +94,7 @@
         	<p align="center">🔥timelinℹ️</p>
         	<p align="center">
         	<a href="https://franckdun.github.io/timeline" target="_blank" rel="noreferrer"> 
-      		<img align="center" src="https://github.com/franckdun/timeline/blob/main/img/Classiques.PNG" alt="franckdun" /></a> </p>
-		   
+      		<img align="center" src="https://github.com/franckdun/timeline/blob/main/img/Classiques.PNG" alt="franckdun" /></a> </p>	   
 	   </td>      
 	 </tr>
  </table>
