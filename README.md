@@ -55,10 +55,11 @@
        		<img align="center" src="https://github.com/franckdun/Bgd_gradient001/blob/main/img/readme.PNG" alt="franckdun" /></a> </p>		   
 	   </td>       
 	   <td width="25%">
-		<p align="center">🔥Background Etoiles🔥⚠️ ℹ️ </p>
+		<p align="center">🔥Background Etoiles🔥</p>
         	<p align="center">
         	<a href="https://franckdun.github.io/BackgroundEtoiles/" target="_blank" rel="noreferrer"> 
-       		<img align="center" src="https://github.com/franckdun/Bgd_Etoiles/blob/main/src/img/stars.png" alt="franckdun" /></a> </p>		
+       		<img align="center" src="https://github.com/franckdun/Bgd_Etoiles/blob/main/src/img/stars.png" alt="franckdun" /></a> </p>
+		   ⚠️ℹ️
 	   </td>     
      	   <td width="25%">
         	<p align="center">🔥button3D🔥</p>
@@ -91,10 +92,11 @@
        		<img align="center" src="https://github.com/franckdun/neuro-morphisme/blob/main/src/css/bouton.PNG" alt="franckdun" /></a> </p>		
 	   </td>     
      	   <td width="25%">
-        	<p align="center">🔥timelin🔥 ℹ️</p>
+        	<p align="center">🔥timelin🔥</p>
         	<p align="center">
         	<a href="https://franckdun.github.io/timeline" target="_blank" rel="noreferrer"> 
-      		<img align="center" src="https://github.com/franckdun/timeline/blob/main/img/Classiques.PNG" alt="franckdun" /></a> </p>		   
+      		<img align="center" src="https://github.com/franckdun/timeline/blob/main/img/Classiques.PNG" alt="franckdun" /></a> </p>
+		   ℹ️
 	   </td>      
 	 </tr>
  </table>
