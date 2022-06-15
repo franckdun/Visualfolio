@@ -165,7 +165,7 @@
 		<p align="center">🔥005-Dapp-Solidity-React-JSℹ️</p>
         	<p align="center">
         	<a href="https://github.com/franckdun/005-Dapp-Solidity-React-JS" target="_blank" rel="noreferrer"> 
-       		<img align="center" src="https://github.com/franckdun/005-Dapp-Solidity-React-JS" alt="franckdun" /></a> </p>	
+       		<img align="center" src="https://github.com/franckdun/005-Dapp-Solidity-React-JS/blob/main/react-app/src/logo.svg" alt="franckdun" /></a> </p>	
 	   </td>
 	   <td width="25%">
         	<p align="center">🔥⚠️</p>
