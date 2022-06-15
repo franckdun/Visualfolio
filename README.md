@@ -2,17 +2,16 @@
 
 > **Note**
 > Non visible en Live.
-
+> 
 > **Warning**
 > En travaux.
-
 
 <!-- presentation -->
 <div align="center">
   <table>
 	<tr>  
 	   <td width="25%">
-		<p align="center">🔥ParaScroll🔥</p>
+		<p align="center"><a href="https://github.com/franckdun/ParaScroll" target="_blank" rel="noreferrer">🔥ParaScroll🔥</a></p>
         	<p align="center">
         	<a href="https://franckdun.github.io/ParaScroll/" target="_blank" rel="noreferrer"> 
        		<img align="center" src="https://github.com/franckdun/ParaScroll/blob/main/img/readme.PNG" alt="franckdun" /></a> </p>		
