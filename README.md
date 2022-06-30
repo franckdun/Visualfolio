@@ -1,10 +1,10 @@
 # Visual Portfolio
 
 > **Note**
-> Non visible en Live.
+> Live non visible.
 > 
 > **Warning**
-> En travaux.
+> En cours de modifications.
 
 <!-- presentation -->
 <div align="center">
@@ -23,13 +23,13 @@
        		<img align="center" src="#" alt="franckdun" /></a> </p>		   
 	   </td>       
 	   <td width="25%">
-		<p align="center"><a href="#" target="_blank" rel="noreferrer">🔥⚠️</a</p>
+		<p align="center"><a href="https://github.com/franckdun/leroy" target="_blank" rel="noreferrer">Leroy</a</p>
         	<p align="center">
         	<a href="#" target="_blank" rel="noreferrer"> 
        		<img align="center" src="#" alt="franckdun" /></a> </p>		
 	   </td>     
      	   <td width="25%">
-        	<p align="center">🔥Leroy🔥</p>
+		<p align="center"><a href="https://github.com/franckdun/leroy" target="_blank" rel="noreferrer">Leroy</a</p>
         	<p align="center">
         	<a href="https://franckdun.github.io/leroy/" target="_blank" rel="noreferrer"> 
       		<img align="center" src="https://github.com/franckdun/leroy/blob/main/img/readme.PNG" alt="franckdun" /></a> </p>		   
