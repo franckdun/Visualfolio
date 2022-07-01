@@ -41,25 +41,25 @@
   <table>
 	<tr>  
 	   <td width="25%">
-		<p align="center"><a href="https://github.com/franckdun/ParaScroll" target="_blank" rel="noreferrer">🔥ParaScroll🔥</a></p>
+		<p align="center"><a href="https://github.com/franckdun/ParaScroll" target="_blank" rel="noreferrer">ParaScroll</a></p>
         	<p align="center">
         	<a href="https://franckdun.github.io/ParaScroll/" target="_blank" rel="noreferrer"> 
        		<img align="center" src="https://github.com/franckdun/ParaScroll/blob/main/img/readme.PNG" alt="franckdun" /></a> </p>		
 	   </td>
 	   <td width="25%">
-        	<p align="center">🔥Super-dashgum🔥</p>
+		<p align="center"><a href="https://github.com/franckdun/Super-dashgum" target="_blank" rel="noreferrer">Superdashgum</a></p>
         	<p align="center">
         	<a href="https://franckdun.github.io/Super-dashgum/" target="_blank" rel="noreferrer"> 
        		<img align="center" src="https://github.com/franckdun/Super-dashgum/blob/main/readme.PNG" alt="franckdun" /></a> </p>		   
 	   </td>       
 	   <td width="25%">
-		<p align="center"><a href="https://github.com/franckdun/responHomePage" target="_blank" rel="noreferrer">🔥responHomePage⚠️</a</p>
+		<p align="center"><a href="https://github.com/franckdun/responHomePage" target="_blank" rel="noreferrer">responHomePage⚠️</a</p>
         	<p align="center">
         	<a href="https://franckdun.github.io/responHomePage/" target="_blank" rel="noreferrer"> 
        		<img align="center" src="https://github.com/franckdun/responHomePage/blob/main/img/readme.PNG" alt="franckdun" /></a> </p>		
 	   </td>     
      	   <td width="25%">
-        	<p align="center">🔥Water-Ripple🔥</p>
+		<p align="center"><a href="https://github.com/franckdun/Water-Ripple" target="_blank" rel="noreferrer">Water-Ripple</a></p>
         	<p align="center">
         	<a href="https://franckdun.github.io/water-Ripple" target="_blank" rel="noreferrer"> 
       		<img align="center" src="https://github.com/franckdun/water-Ripple/blob/main/img/readme.PNG" alt="franckdun" /></a> </p>		   
@@ -71,7 +71,8 @@
   <table>
 	<tr>  
 	   <td width="25%">
-		<p align="center">🔥3DMenu🔥</p>
+		<p align="center">3DMenu</p>
+		<p align="center"><a href="https://github.com/franckdun/3DMenu" target="_blank" rel="noreferrer">3DMenu</a></p>
         	<p align="center">
         	<a href="https://franckdun.github.io/3DMenu/" target="_blank" rel="noreferrer"> 
        		<img align="center" src="https://github.com/franckdun/3DMenu/blob/main/img/readme01.PNG" alt="franckdun" /></a> </p>		
