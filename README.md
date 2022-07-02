@@ -86,7 +86,7 @@
 	   	<p align="center"><a href="https://github.com/franckdun/github-corners" target="_blank" rel="noreferrer">github-corners</a> </p>
         	<p align="center">
         	<a href="https://franckdun.github.io/github-corners/" target="_blank" rel="noreferrer"> 
-       		<img align="center" src="" width="200px" height="105px" alt="franckdun"/></a> </p>	   
+       		<img align="center" src="https://github.com/franckdun/github-corners/blob/master/img/readme.PNG" width="200px" height="105px" alt="franckdun"/></a> </p>	   
 	   </td>     
      	   <td width="25%">
         	<p align="center"><a href="https://github.com/franckdun/button3D" target="_blank" rel="noreferrer">button3D</a></p>
