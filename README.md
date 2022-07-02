@@ -84,7 +84,6 @@
 	   </td>       
 	   <td width="25%">
 	   	<p align="center"><a href="https://github.com/franckdun/github-corners" target="_blank" rel="noreferrer">github-corners</a</p>
-		<p align="center">github-cornersℹ️⚠️</p>
         	<p align="center">
         	<a href="https://franckdun.github.io/github-corners/" target="_blank" rel="noreferrer"> 
        		<img align="center" src="https://i.imgur.com/703iLiS.png" alt="franckdun" /></a> </p>	   
