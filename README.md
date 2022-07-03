@@ -273,8 +273,8 @@
 	</table>
 </div>
 <div align="center">
-	<table>
-		<tr>
+	<table width="100%">
+		<tr width="100%">
 			<td width="25%">
 				<p align="center">
 					<a href="https://github.com/franckdun/005-Dapp-Solidity-React-JS" target="_blank" rel="noreferrer">Dapp-Sol... ℹ️</a></p>
