@@ -72,7 +72,7 @@
 			</td>
 			<td width="25%">
 				<p align="center"><a href="https://github.com/franckdun/responHomePage" target="_blank"
-						rel="noreferrer">responHomePage⚠️</a< /p>
+						rel="noreferrer">respon...⚠️</a</p>
 						<p align="center">
 							<a href="https://franckdun.github.io/responHomePage/" target="_blank" rel="noreferrer">
 								<img align="center"
@@ -150,7 +150,7 @@
 			</td>
 			<td width="25%">
 				<p align="center"><a href="https://github.com/franckdun/jeu-de-devinette" target="_blank"
-						rel="noreferrer">jeu-de-devinette ⚠️</a></p>
+						rel="noreferrer">jeu... ⚠️</a></p>
 				<p align="center">
 					<a href="https://franckdun.github.io/jeu-de-devinette/" target="_blank" rel="noreferrer">
 						<img align="center"
@@ -205,7 +205,7 @@
 			</td>
 			<td width="25%">
 				<p align="center"><a href="https://github.com/franckdun/react-deploy-001" target="_blank"
-						rel="noreferrer">react-deploy-001</a></p>
+						rel="noreferrer">react...</a></p>
 				<p align="center">
 					<a href="https://franckdun.github.io/react-deploy-001/" target="_blank" rel="noreferrer">
 						<img align="center"
@@ -241,7 +241,7 @@
 			</td>
 			<td width="25%">
 				<p align="center"><a href="https://github.com/franckdun/site-portefolio-001" target="_blank"
-						rel="noreferrer">site-portefolio ⚠️</a></p>
+						rel="noreferrer">site... ⚠️</a></p>
 				<p align="center">
 					<a href="https://github.com/franckdun/site-portefolio" target="_blank" rel="noreferrer">
 						<img align="center"
@@ -277,7 +277,7 @@
 		<tr>
 			<td width="25%">
 				<p align="center"><a href="https://github.com/franckdun/005-Dapp-Solidity-React-JS" target="_blank"
-						rel="noreferrer">Dapp-Solidity-React-JS ℹ️</a></p>
+						rel="noreferrer">Dapp-Sol... ℹ️</a></p>
 				<p align="center">
 					<a href="https://github.com/franckdun/005-Dapp-Solidity-React-JS" target="_blank" rel="noreferrer">
 						<img align="center"
