@@ -180,6 +180,7 @@
 		</tr>
 	</table>
 </div>
+----------------------------------------
 <div align="center">
 	<table>
 		<tr width="100%">
