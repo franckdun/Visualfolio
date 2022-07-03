@@ -104,25 +104,25 @@
 	   <p align="center"><a href="https://github.com/franckdun/curseur-perso" target="_blank" rel="noreferrer">curseur-perso</a></p>
         	<p align="center">
         	<a href="https://franckdun.github.io/curseur-perso/" target="_blank" rel="noreferrer"> 
-       		<img align="center" src="https://github.com/franckdun/curseur-perso/blob/main/src/Curseur-pointeur.PNG" width="180px" height="90px" alt="franckdun" /></a> </p>		
+       		<img align="center" src="https://github.com/franckdun/curseur-perso/blob/main/src/Curseur-pointeur.PNG" width="180px" height="80px" alt="franckdun" /></a> </p>		
 	   </td>
 	   <td width="25%">
 	   <p align="center"><a href="https://github.com/franckdun/jeu-de-devinette" target="_blank" rel="noreferrer">jeu-de-devinette ⚠️</a></p>
         	<p align="center">
         	<a href="https://franckdun.github.io/jeu-de-devinette/" target="_blank" rel="noreferrer"> 
-       		<img align="center" src="https://user-images.githubusercontent.com/40036047/168306592-3b653d14-901c-4d0d-8cb3-957937ae6284.PNG" width="180px" height="90px" alt="franckdun" /></a> </p>		   
+       		<img align="center" src="https://user-images.githubusercontent.com/40036047/168306592-3b653d14-901c-4d0d-8cb3-957937ae6284.PNG" width="180px" height="80px" alt="franckdun" /></a> </p>		   
 	   </td>       
 	   <td width="25%">
 	   <p align="center"><a href="https://github.com/franckdun/neuro-morphisme" target="_blank" rel="noreferrer">neuro-morphisme</a></p>
         	<p align="center">
         	<a href="https://franckdun.github.io/neuro-morphisme" rel="noreferrer"> 
-       		<img align="center" src="https://github.com/franckdun/neuro-morphisme/blob/main/src/css/bouton.PNG" width="180px" height="90px" alt="franckdun" /></a> </p>		
+       		<img align="center" src="https://github.com/franckdun/neuro-morphisme/blob/main/src/css/bouton.PNG" width="180px" height="80px" alt="franckdun" /></a> </p>		
 	   </td>     
      	   <td width="25%">
 		   <p align="center"><a href="https://github.com/franckdun/timeline" target="_blank" rel="noreferrer">timeline ℹ️</a></p>
         	<p align="center">
         	<a href="https://franckdun.github.io/timeline" target="_blank" rel="noreferrer"> 
-      		<img align="center" src="https://github.com/franckdun/timeline/blob/main/img/Classiques.PNG" width="180px" height="90px" alt="franckdun" /></a> </p>	   
+      		<img align="center" src="https://github.com/franckdun/timeline/blob/main/img/Classiques.PNG" width="180px" height="80px" alt="franckdun" /></a> </p>	   
 	   </td>      
 	 </tr>
  </table>
