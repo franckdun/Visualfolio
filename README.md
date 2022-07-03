@@ -20,7 +20,7 @@
         	<p align="center"><a href="https://github.com/franckdun/Wave-Menu" target="_blank" rel="noreferrer">Wave-Menu</a></p>
         	<p align="center">
         	<a href="https://franckdun.github.io/Wave-Menu/" target="_blank" rel="noreferrer"> 
-       		<img align="center" src="https://github.com/franckdun/Wave-Menu/blob/main/img/readme1.PNG" width="200px" height="80px" alt="franckdun" /></a> </p>		   
+       		<img align="center" src="https://github.com/franckdun/Wave-Menu/blob/main/img/readme1.PNG" width="200em" height="80em" alt="franckdun" /></a> </p>		   
 	   </td>       
 	   <td width="25%">
 		<p align="center"><a href="https://github.com/franckdun/Glitch" target="_blank" rel="noreferrer">Glitch</a></p>
