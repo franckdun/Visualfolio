@@ -276,11 +276,9 @@
 	<table>
 		<tr>
 			<td width="25%">
+				<p align="center"><a href="https://github.com/franckdun/005-Dapp-Solidity-React-JS" target="_blank" rel="noreferrer">Dapp-Sol... ℹ️</a></p>
 				<p align="center"><a href="https://github.com/franckdun/005-Dapp-Solidity-React-JS" target="_blank"
-						rel="noreferrer">Dapp-Sol... ℹ️</a></p>
-				<p align="center">
-					<a href="https://github.com/franckdun/005-Dapp-Solidity-React-JS" target="_blank" rel="noreferrer">
-						<img align="center"
+				rel="noreferrer"><img align="center"
 							src="https://github.com/franckdun/005-Dapp-Solidity-React-JS/blob/main/react-app/src/logo.svg"
 							width="200px" height="80px" alt="franckdun" /></a>
 				</p>
@@ -288,27 +286,21 @@
 			<td width="25%">
 				<p align="center"><a href="https://github.com/franckdun/Img-Banck" target="_blank"
 						rel="noreferrer">Img-Banck</a></p>
-				<p align="center">
-					<a href="https://github.com/franckdun/Img-Banck" target="_blank" rel="noreferrer">
-						<img align="center" src="https://github.com/franckdun/Img-Banck/blob/main/img/gipcat.gif"
+				<p align="center"><a href="https://github.com/franckdun/Img-Banck" target="_blank" rel="noreferrer"><img align="center" src="https://github.com/franckdun/Img-Banck/blob/main/img/gipcat.gif"
 							width="200px" height="80px" alt="franckdun" /></a>
 				</p>
 			</td>
 			<td width="25%">
 				<p align="center"><a href="https://github.com/franckdun/iconRocket" target="_blank"
 						rel="noreferrer">iconRocket</a></p>
-				<p align="center">
-					<a href="https://github.com/franckdun/iconRocket" target="_blank" rel="noreferrer">
-						<img align="center" src="https://github.com/franckdun/iconRocket/blob/main/img/readme1.PNG"
+				<p align="center"><a href="https://github.com/franckdun/iconRocket" target="_blank" rel="noreferrer"><img align="center" src="https://github.com/franckdun/iconRocket/blob/main/img/readme1.PNG"
 							width="200px" height="80px" alt="franckdun" /></a>
 				</p>
 			</td>
 			<td width="25%">
 				<p align="center"><a href="https://github.com/franckdun/" target="_blank" rel="noreferrer">Rocket-3</a>
 				</p>
-				<p align="center">
-					<a href="https://github.com/franckdun/Rocket-3" target="_blank" rel="noreferrer">
-						<img align="center" src="https://github.com/franckdun/Rocket-3/blob/main/img/readme1.PNG"
+				<p align="center"><a href="https://github.com/franckdun/Rocket-3" target="_blank" rel="noreferrer"><img align="center" src="https://github.com/franckdun/Rocket-3/blob/main/img/readme1.PNG"
 							width="200px" height="80px" alt="franckdun" /></a>
 				</p>
 			</td>
