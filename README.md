@@ -144,7 +144,7 @@
 				<p align="center">
 					<a href="https://franckdun.github.io/curseur-perso/" target="_blank" rel="noreferrer">
 						<img align="center"
-							src="https://github.com/franckdun/curseur-perso/blob/main/src/Curseur-pointeur.PNG"
+							src="https://github.com/franckdun/curseur-perso/blob/main/src/img/README.PNG"
 							width="200px" height="80px" alt="franckdun" /></a>
 				</p>
 			</td>
