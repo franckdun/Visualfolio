@@ -9,7 +9,7 @@
 <!-- presentation -->
 <div align="center">
 	<table>
-		<tr>
+		<tr width="100%">
 			<td width="25%">
 				<p align="center"><a href="https://github.com/franckdun/Obin" target="_blank" rel="noreferrer">Obin</a>
 				</p>
