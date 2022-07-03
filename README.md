@@ -283,7 +283,7 @@
 				</p>
 				<p align="center">
 					<a href="https://github.com/franckdun/Img-Banck" target="_blank" rel="noreferrer">
-							<img align="center" src="https://github.com/franckdun/Img-Banck/blob/main/img/gipcat.gif"
+							<img align="center" src="https://github.com/franckdun/Img-Banck/blob/main/img/github.svg"
 							width="200px" height="80px" alt="franckdun" /></a>
 				</p>
 			</td>
