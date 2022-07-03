@@ -203,8 +203,7 @@
 				<p align="center"><a href="https://github.com/franckdun/react-deploy-001" target="_blank"
 						rel="noreferrer">react...</a></p>
 				<p align="center"><a href="https://franckdun.github.io/react-deploy-001/" target="_blank" rel="noreferrer">
-						<img align="center" src="https://github.com/franckdun/react-deploy-001/blob/main/src/antonio.gif" width="200px"
-							height="80px" alt="franckdun" /></a>
+						<img align="center" src="https://github.com/franckdun/react-deploy-001/blob/main/src/antonio.gif" width="200px" height="80px" alt="franckdun" /></a>
 				</p>
 			</td>
 			<td width="25%">
