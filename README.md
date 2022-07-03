@@ -94,7 +94,7 @@
 </div>
 <div align="center">
 	<table>
-		<tr>
+		<tr width="100%">
 			<td width="25%">
 				<p align="center"><a href="https://github.com/franckdun/3DMenu" target="_blank"
 						rel="noreferrer">3DMenu</a></p>
@@ -106,7 +106,7 @@
 			</td>
 			<td width="25%">
 				<p align="center"><a href="https://github.com/franckdun/Bgd_gradient001" target="_blank"
-						rel="noreferrer">Bgd_gradient001</a></p>
+						rel="noreferrer">Bgd_gra...</a></p>
 				<p align="center">
 					<a href="https://franckdun.github.io/Bgd_gradient001/" target="_blank" rel="noreferrer">
 						<img align="center" src="https://github.com/franckdun/Bgd_gradient001/blob/main/img/readme.PNG"
@@ -137,10 +137,10 @@
 </div>
 <div align="center">
 	<table>
-		<tr>
+		<tr width="100%">
 			<td width="25%">
 				<p align="center"><a href="https://github.com/franckdun/curseur-perso" target="_blank"
-						rel="noreferrer">curseur-perso</a></p>
+						rel="noreferrer">curseur...</a></p>
 				<p align="center">
 					<a href="https://franckdun.github.io/curseur-perso/" target="_blank" rel="noreferrer">
 						<img align="center"
@@ -160,7 +160,7 @@
 			</td>
 			<td width="25%">
 				<p align="center"><a href="https://github.com/franckdun/neuro-morphisme" target="_blank"
-						rel="noreferrer">neuro-morphisme</a></p>
+						rel="noreferrer">neuro-mor...</a></p>
 				<p align="center">
 					<a href="https://franckdun.github.io/neuro-morphisme" rel="noreferrer">
 						<img align="center"
@@ -182,7 +182,7 @@
 </div>
 <div align="center">
 	<table>
-		<tr>
+		<tr width="100%">
 			<td width="25%">
 				<p align="center"><a href="https://github.com/franckdun/002_Anim-texte-js" target="_blank"
 						rel="noreferrer">002_Anim-texte-js</a></p>
