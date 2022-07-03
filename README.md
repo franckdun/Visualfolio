@@ -123,7 +123,7 @@
 				</p>
 			</td>
 			<td width="25%">
-				<p align="center"><a href="https://github.com/franckdun/button3D" target="_blank"
+				<p align="center"><a href="https://github.com/franckdun/button3DcodePen" target="_blank"
 						rel="noreferrer">button3D</a></p>
 				<p align="center">
 					<a href="https://franckdun.github.io/button3DcodePen/" target="_blank" rel="noreferrer">
