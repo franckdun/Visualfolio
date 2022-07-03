@@ -273,7 +273,7 @@
 	</table>
 </div>
 <div align="center">
-	<table width="100%">
+	<table width="1000px">
 		<tr width="100%">
 			<td width="25%">
 				<p align="center">
