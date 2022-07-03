@@ -167,7 +167,7 @@
        		<img align="center" src="https://user-images.githubusercontent.com/40036047/167878838-b5ff0516-fa29-466d-a143-e93d887faa30.PNG" width="200px" height="80px" alt="franckdun" /></a> </p>	
 	   </td>
 	   <td width="25%">
-	   <p align="center"><a href="https://github.com/franckdun/site-portefolio-001" target="_blank" rel="noreferrer">site-portefolio-001 ⚠️</a></p>
+	   <p align="center"><a href="https://github.com/franckdun/site-portefolio-001" target="_blank" rel="noreferrer">site-portefolio ⚠️</a></p>
         	<p align="center">
         	<a href="https://github.com/franckdun/cours-react-1" target="_blank" rel="noreferrer"> 
        		<img align="center" src="https://user-images.githubusercontent.com/40036047/168304238-b2a6d872-a31e-452d-aeb4-825a26ff0b95.PNG" width="200px" height="80px" alt="franckdun" /></a> </p>		   
@@ -191,7 +191,7 @@
   <table>
 	<tr>  
 	   <td width="25%">
-	   <p align="center"><a href="https://github.com/franckdun/005-Dapp-Solidity-React-JS" target="_blank" rel="noreferrer">005-Dapp-Solidity-React-JSℹ️</a></p>
+	   <p align="center"><a href="https://github.com/franckdun/005-Dapp-Solidity-React-JS" target="_blank" rel="noreferrer">Dapp-Solidity-React-JS ℹ️</a></p>
         	<p align="center">
         	<a href="https://github.com/franckdun/005-Dapp-Solidity-React-JS" target="_blank" rel="noreferrer"> 
        		<img align="center" src="https://github.com/franckdun/005-Dapp-Solidity-React-JS/blob/main/react-app/src/logo.svg" width="200px" height="80px" alt="franckdun" /></a> </p>	
