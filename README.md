@@ -109,7 +109,7 @@
 						rel="noreferrer">Bgd_gra...</a></p>
 				<p align="center">
 					<a href="https://franckdun.github.io/Bgd_gradient001/" target="_blank" rel="noreferrer">
-						<img align="center" src="https://github.com/franckdun/Bgd_gradient001/blob/main/img/readme.PNG"
+						<img align="center" src="https://github.com/franckdun/Bgd_gradient001/blob/main/img/readme1.PNG"
 							width="200px" height="80px" alt="franckdun" /></a>
 				</p>
 			</td>
