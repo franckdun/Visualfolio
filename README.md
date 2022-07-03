@@ -274,7 +274,7 @@
 </div>
 <div align="center">
 	<table>
-		<tr width="1000px">
+		<tr width="1100px">
 			<td width="25%">
 				<p align="center">
 					<a href="https://github.com/franckdun/005-Dapp-Solidity-React-JS" target="_blank" rel="noreferrer">Dapp-Sol... ℹ️</a></p>
