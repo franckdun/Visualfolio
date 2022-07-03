@@ -286,7 +286,8 @@
 			</td>
 			<td width="25%">
 				<p align="center"><a href="https://github.com/franckdun/Img-Banck" target="_blank"
-						rel="noreferrer">Img-Banck</a></p>
+						rel="noreferrer">Img-Banck</a>
+				</p>
 				<p align="center">
 					<a href="https://github.com/franckdun/Img-Banck" target="_blank" rel="noreferrer"><img align="center" src="https://github.com/franckdun/Img-Banck/blob/main/img/gipcat.gif"
 							width="200px" height="80px" alt="franckdun" /></a>
@@ -294,7 +295,8 @@
 			</td>
 			<td width="25%">
 				<p align="center"><a href="https://github.com/franckdun/iconRocket" target="_blank"
-						rel="noreferrer">iconRocket</a></p>
+						rel="noreferrer">iconRocket</a>
+				</p>
 				<p align="center">
 					<a href="https://github.com/franckdun/iconRocket" target="_blank" rel="noreferrer"><img align="center" src="https://github.com/franckdun/iconRocket/blob/main/img/readme1.PNG"
 							width="200px" height="80px" alt="franckdun" /></a>
