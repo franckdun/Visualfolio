@@ -51,7 +51,7 @@
 </div>
 <div align="center">
 	<table>
-		<tr>
+		<tr width="100%">
 			<td width="25%">
 				<p align="center"><a href="https://github.com/franckdun/ParaScroll" target="_blank"
 						rel="noreferrer">ParaScroll</a></p>
@@ -63,7 +63,7 @@
 			</td>
 			<td width="25%">
 				<p align="center"><a href="https://github.com/franckdun/Super-dashgum" target="_blank"
-						rel="noreferrer">Superdashgum</a></p>
+						rel="noreferrer">Super...</a></p>
 				<p align="center">
 					<a href="https://franckdun.github.io/Super-dashgum/" target="_blank" rel="noreferrer">
 						<img align="center" src="https://github.com/franckdun/Super-dashgum/blob/main/readme.PNG"
@@ -82,7 +82,7 @@
 			</td>
 			<td width="25%">
 				<p align="center"><a href="https://github.com/franckdun/Water-Ripple" target="_blank"
-						rel="noreferrer">Water-Ripple</a></p>
+						rel="noreferrer">Water...</a></p>
 				<p align="center">
 					<a href="https://franckdun.github.io/water-Ripple" target="_blank" rel="noreferrer">
 						<img align="center" src="https://github.com/franckdun/water-Ripple/blob/main/img/readme.PNG"
