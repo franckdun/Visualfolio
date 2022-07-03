@@ -281,8 +281,7 @@
 				<p align="center"><a href="https://github.com/franckdun/005-Dapp-Solidity-React-JS" target="_blank"
 				rel="noreferrer">
 							<img align="center"
-							src="https://github.com/franckdun/005-Dapp-Solidity-React-JS/blob/main/react-app/src/logo.svg"
-							width="200px" height="80px" alt="franckdun" /></a>
+							src="https://github.com/franckdun/005-Dapp-Solidity-React-JS/blob/main/react-app/src/logo.svg" width="200px" height="80px" alt="franckdun" /></a>
 				</p>
 			</td>
 			<td width="25%">
@@ -301,8 +300,7 @@
 				</p>
 				<p align="center">
 					<a href="https://github.com/franckdun/iconRocket" target="_blank" rel="noreferrer">
-							<img align="center" src="https://github.com/franckdun/iconRocket/blob/main/img/readme1.PNG"
-							width="200px" height="80px" alt="franckdun" /></a>
+							<img align="center" src="https://github.com/franckdun/iconRocket/blob/main/img/readme1.PNG" width="200px" height="80px" alt="franckdun" /></a>
 				</p>
 			</td>
 			<td width="25%">
@@ -310,8 +308,7 @@
 				</p>
 				<p align="center">
 					<a href="https://github.com/franckdun/Rocket-3" target="_blank" rel="noreferrer">
-							<img align="center" src="https://github.com/franckdun/Rocket-3/blob/main/img/readme1.PNG"
-							width="200px" height="80px" alt="franckdun" /></a>
+							<img align="center" src="https://github.com/franckdun/Rocket-3/blob/main/img/readme1.PNG" width="200px" height="80px" alt="franckdun" /></a>
 				</p>
 			</td>
 		</tr>
