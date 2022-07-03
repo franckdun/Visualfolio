@@ -233,7 +233,7 @@
 				<p align="center"><a href="https://github.com/franckdun/loader" target="_blank"
 						rel="noreferrer">loader</a></p>
 				<p align="center">
-					<a href="https://franckdun.github.io/loader_001/ " target="_blank" rel="noreferrer">
+					<a href="https://franckdun.github.io/loader_001/" target="_blank" rel="noreferrer">
 						<img align="center"
 							src="https://user-images.githubusercontent.com/40036047/167878838-b5ff0516-fa29-466d-a143-e93d887faa30.PNG"
 							width="200px" height="80px" alt="franckdun" /></a>
@@ -243,7 +243,7 @@
 				<p align="center"><a href="https://github.com/franckdun/site-portefolio-001" target="_blank"
 						rel="noreferrer">site-portefolio ⚠️</a></p>
 				<p align="center">
-					<a href="https://github.com/franckdun/cours-react-1" target="_blank" rel="noreferrer">
+					<a href="https://github.com/franckdun/site-portefolio" target="_blank" rel="noreferrer">
 						<img align="center"
 							src="https://user-images.githubusercontent.com/40036047/168304238-b2a6d872-a31e-452d-aeb4-825a26ff0b95.PNG"
 							width="200px" height="80px" alt="franckdun" /></a>
@@ -261,7 +261,7 @@
 			</td>
 			<td width="25%">
 				<p align="center"><a href="https://github.com/franckdun/Menu_responsive_002" target="_blank"
-						rel="noreferrer">Menu_responsive_002</a></p>
+						rel="noreferrer">Menu_responsive</a></p>
 				<p align="center">
 					<a href="https://franckdun.github.io/Menu_responsive_002" target="_blank" rel="noreferrer">
 						<img align="center"
