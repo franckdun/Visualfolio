@@ -195,7 +195,7 @@
 			</td>
 			<td width="25%">
 				<p align="center"><a href="https://github.com/franckdun/cours-react-1" target="_blank"
-						rel="noreferrer">cours-react-1 ℹ️</a></p>
+						rel="noreferrer">cours... ℹ️</a></p>
 				<p align="center">
 					<a href="https://github.com/franckdun/cours-react-1" target="_blank" rel="noreferrer">
 						<img align="center"
