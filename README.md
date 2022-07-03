@@ -204,7 +204,7 @@
 				rel="noreferrer">react...</a></p>
 				<p align="center"><a href="https://franckdun.github.io/react-deploy-001/" 
 				rel="noreferrer">
-				<img align="center" src="https://github.com/franckdun/react-deploy-001/img/readme.PNG" width="200px" height="80px" alt="franckdun" /></a>
+				<img align="center" src="https://github.com/franckdun/react-deploy-001/blob/main/img/readme.PNG" width="200px" height="80px" alt="franckdun" /></a>
 				</p>
 			</td>
 			<td width="25%">
