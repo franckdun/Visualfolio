@@ -248,7 +248,7 @@
 				<p align="center">
 					<a href="https://franckdun.github.io/Unclock-electron/" target="_blank" rel="noreferrer">
 						<img align="center"
-							src="https://github.com/ezralopez/unclock-electron/raw/master/assets/demo.gif" 
+							src="https://github.com/franckdun/Unclock-electron/blob/main/img/readme.PNG" 
 							width="200px" height="80px" alt="franckdun" /></a>
 				</p>
 			</td>
