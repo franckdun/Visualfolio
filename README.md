@@ -187,7 +187,7 @@
 				<p align="center"><a href="https://github.com/franckdun/002_Anim-texte-js" 
 				rel="noreferrer">002_Anim-texte-js</a></p>
 				<p align="center"><a href="https://franckdun.github.io/002_Anim-texte-js/"  rel="noreferrer">
-				<img align="center" src="https://github.com/franckdun/002_Anim-texte-js/blob/main/img/AnimReact.PNG"
+				<img align="center" src="https://github.com/franckdun/002_Anim-texte-js/blob/main/img/AnimReact1.PNG"
 				width="200px" height="80px" alt="franckdun" /></a>
 				</p>
 			</td>
@@ -303,6 +303,47 @@
 					<a href="https://franckdun.github.io/Rocket-3/" target="_blank" rel="noreferrer">
 							<img align="center" src="https://github.com/franckdun/Rocket-3/blob/main/img/readme2.PNG" width="200px" height="80px" alt="franckdun" /></a>
 				</p>
+			</td>
+		</tr>
+	</table>
+</div>
+<div align="center">
+	<table>
+		<tr width="100%">
+			<td width="25%">
+				<p align="center"><a href="https://github.com/franckdun/Random-quote-cards" target="_blank" rel="noreferrer">Random-quote-cards</a>
+				</p>
+				<p align="center">
+					<a href="https://franckdun.github.io/Random-quote-cards/" target="_blank" rel="noreferrer">
+						<img align="center" src="https://github.com/franckdun/Random-quote-cards/blob/main/img/readme3.PNG"
+							width="200px" height="80px" alt="franckdun" /></a>
+				</p>
+			</td>
+			<td width="25%">
+				<p align="center"><a href="https://github.com/franckdun/" target="_blank"
+						rel="noreferrer">#</a></p>
+				<p align="center">
+					<a href="https://github.com/franckdun/" target="_blank" rel="noreferrer">
+						<img align="center" src="https://github.com/franckdun/Img-Banck/blob/main/img/github.svg"
+							width="200px" height="80px" alt="franckdun" /></a>
+				</p>
+			</td>
+			<td width="25%">
+				<p align="center"><a href="https://github.com/franckdun/" target="_blank"
+						rel="noreferrer">#</a></p>
+				<p align="center">
+					<a href="https://github.com/franckdun/" target="_blank" rel="noreferrer">
+						<img align="center" src="https://github.com/franckdun/Img-Banck/blob/main/img/github.svg"
+							width="200px" height="80px" alt="franckdun" /></a>
+				</p>
+			</td>
+			<td width="25%">
+				<p align="center"><a href="https://github.com/franckdun/" target="_blank" rel="noreferrer">#</a></p>
+						<p align="center">
+							<a href="https://github.com/franckdun/" target="_blank" rel="noreferrer">
+								<img align="center" src="https://github.com/franckdun/Img-Banck/blob/main/img/github.svg"
+									width="200px" height="80px" alt="franckdun" /></a>
+						</p>
 			</td>
 		</tr>
 	</table>
