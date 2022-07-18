@@ -322,7 +322,7 @@ Nota Bene
 				</p>
 			</td>
 			<td width="25%">
-				<p align="center"><a href="https://github.com/franckdun/" target="_blank"
+				<p align="center"><a href="https://github.com/franckdun/Dominic" target="_blank"
 						rel="noreferrer">Dominic</a></p>
 				<p align="center">
 					<a href="https://franckdun.github.io/Dominic/" target="_blank" rel="noreferrer">
