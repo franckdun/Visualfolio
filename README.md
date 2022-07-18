@@ -225,7 +225,7 @@ Nota Bene
 	<table>
 		<tr>
 			<td width="25%">
-				<p align="center"><a href="https://github.com/franckdun/loader" target="_blank"
+				<p align="center"><a href="https://github.com/franckdun/loader_001" target="_blank"
 						rel="noreferrer">loader</a></p>
 				<p align="center">
 					<a href="https://franckdun.github.io/loader_001/" target="_blank" rel="noreferrer">
