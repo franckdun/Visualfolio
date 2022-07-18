@@ -323,10 +323,10 @@ Nota Bene
 			</td>
 			<td width="25%">
 				<p align="center"><a href="https://github.com/franckdun/" target="_blank"
-						rel="noreferrer">#</a></p>
+						rel="noreferrer">Dominic</a></p>
 				<p align="center">
-					<a href="https://github.com/franckdun/" target="_blank" rel="noreferrer">
-						<img align="center" src="https://github.com/franckdun/Img-Banck/blob/main/img/github.svg"
+					<a href="https://franckdun.github.io/Dominic/" target="_blank" rel="noreferrer">
+						<img align="center" src="https://github.com/franckdun/Dominic/blob/main/images/readme1.PNG"
 							width="200px" height="80px" alt="franckdun" /></a>
 				</p>
 			</td>
