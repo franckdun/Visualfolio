@@ -1,4 +1,4 @@
-<p align="right"><a href="https://github.com/franckdun/My-learning"> <img src="https://img.shields.io/badge/Go%20to-Learnfolio-007acc"></a></p>
+<p align="right"><a href="https://github.com/franckdun/My-learning"> <img src="https://img.shields.io/badge/🔒-Learnfolio-007acc"></a></p>
 
 # <h1 align="center">Visualfolio</h1>
 
