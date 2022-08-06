@@ -10,7 +10,7 @@ Nota Bene
 > **Warning**
 > En cours de modifications.
 
-<!-- presentation -->
+<!--////////////////////////////////// presentation \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\-->
 <div align="center">
 	<table>
 		<tr width="100%">
@@ -53,6 +53,7 @@ Nota Bene
 		</tr>
 	</table>
 </div>
+<!--////////////////////////////////// TABLE 2 \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\-->
 <div align="center">
 	<table>
 		<tr width="100%">
