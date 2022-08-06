@@ -10,7 +10,7 @@ Nota Bene
 > **Warning**
 > En cours de modifications.
 
---- 1 --- 
+1) 
 <!--////////////////////////////////// presentation \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\-->
 <div align="center">
 	<table>
@@ -56,6 +56,7 @@ Nota Bene
 </div>
 
 --- 
+2) 
 <!--////////////////////////////////// TABLE 2 \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\-->
 <div align="center">
 	<table>
