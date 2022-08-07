@@ -431,7 +431,7 @@ Nota Bene
 10)
 <!--////////////////////////////////// TABLE 10 \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\-->
 
-
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=3e77bf&height=150&width=1100&section=footer) 
 
 
 
