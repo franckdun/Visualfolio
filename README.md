@@ -384,290 +384,106 @@ Nota Bene
 --- 
 9)
 <!--////////////////////////////////// TABLE 9 \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\-->
-<div align="center">
-	<table>
-		<tr width="1000px">
-			<td width="25%">
-				<p align="center"><a href="https://github.com/franckdun/" target="_blank" rel="noreferrer">#</a>
-				</p>
-				<p align="center">
-					<a href="https://github.com/franckdun/" target="_blank" rel="noreferrer">
-						<img align="center" src="https://github.com/franckdun/Img-Banck/blob/main/img/github.svg"
-							width="200px" height="80px" alt="franckdun" /></a>
-				</p>
-			</td>
-			<td width="25%">
-				<p align="center"><a href="https://github.com/franckdun/" target="_blank"
-						rel="noreferrer">#</a></p>
-				<p align="center">
-					<a href="https://github.com/franckdun/" target="_blank" rel="noreferrer">
-						<img align="center" src="https://github.com/franckdun/Img-Banck/blob/main/img/github.svg"
-							width="200px" height="80px" alt="franckdun" /></a>
-				</p>
-			</td>
-			<td width="25%">
-				<p align="center"><a href="https://github.com/franckdun/" target="_blank"
-						rel="noreferrer">#</a></p>
-				<p align="center">
-					<a href="https://github.com/franckdun/" target="_blank" rel="noreferrer">
-						<img align="center" src="https://github.com/franckdun/Img-Banck/blob/main/img/github.svg"
-							width="200px" height="80px" alt="franckdun" /></a>
-				</p>
-			</td>
-			<td width="25%">
-				<p align="center"><a href="https://github.com/franckdun/" target="_blank" rel="noreferrer">#</a></p>
-						<p align="center">
-							<a href="https://github.com/franckdun/" target="_blank" rel="noreferrer">
-								<img align="center" src="https://github.com/franckdun/Img-Banck/blob/main/img/github.svg"
-									width="200px" height="80px" alt="franckdun" /></a>
-						</p>
-			</td>
-			<td width="25%">
-				<p align="center"><a href="https://github.com/franckdun/" target="_blank" rel="noreferrer">#</a>
-				</p>
-				<p align="center">
-					<a href="https://github.com/franckdun/" target="_blank" rel="noreferrer">
-						<img align="center" src="https://github.com/franckdun/Img-Banck/blob/main/img/github.svg"
-							width="200px" height="80px" alt="franckdun" /></a>
-				</p>
-			</td>
-			<td width="25%">
-				<p align="center"><a href="https://github.com/franckdun/" target="_blank"
-						rel="noreferrer">#</a></p>
-				<p align="center">
-					<a href="https://github.com/franckdun/" target="_blank" rel="noreferrer">
-						<img align="center" src="https://github.com/franckdun/Img-Banck/blob/main/img/github.svg"
-							width="200px" height="80px" alt="franckdun" /></a>
-				</p>
-			</td>
-			<td width="25%">
-				<p align="center"><a href="https://github.com/franckdun/" target="_blank"
-						rel="noreferrer">#</a></p>
-				<p align="center">
-					<a href="https://github.com/franckdun/" target="_blank" rel="noreferrer">
-						<img align="center" src="https://github.com/franckdun/Img-Banck/blob/main/img/github.svg"
-							width="200px" height="80px" alt="franckdun" /></a>
-				</p>
-			</td>
-			<td width="25%">
-				<p align="center"><a href="https://github.com/franckdun/" target="_blank" rel="noreferrer">#</a></p>
-						<p align="center">
-							<a href="https://github.com/franckdun/" target="_blank" rel="noreferrer">
-								<img align="center" src="https://github.com/franckdun/Img-Banck/blob/main/img/github.svg"
-									width="200px" height="80px" alt="franckdun" /></a>
-						</p>
-			</td>
-		</tr>
-	</table>
-</div>
-
---- 
-10)
-<!--////////////////////////////////// TABLE 10 \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\-->
 
 <div align="center">
   <table>
 	<tr width="1000px">  
-	   <td width="25%">	<!-- 1er SEO -->
-		<p align="center">
-		
-🔥[![Made with SEO](https://img.shields.io/badge/SEO-blue?logo=SEO&logoColor=white)](https://github.com/franckdun/Open_Projet-4 "Go to SEO openclassrooms")🔥
-
-</p>		
-        	<p align="center">
-        	<a href="#" target="_blank" rel="noreferrer"> 
-       		<img align="center" width="200" height="10" src="https://github.com/franckdun/Img-Banck/blob/main/img/banner1.jpg" alt="franckdun"/></a></p>
-		
-* [OpenClassRooms](https://github.com/franckdun/Open_Projet-4 "Go to SEO openclassrooms")	
-* [xxxxxxxxxxxxxxxx]()	
-* [xxxxxxxxxxxxxxxx]()
-* [xxxxxxxxxxxxxxxx]()
-	   </td>
 	   <td width="25%">	<!-- 2eme IPFS -->
-		<p align="center"><a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/franckdun/franckdun/main/img/ipfs.gif" alt="IPFS" width="125" height="40"/></a></p>	
+		<p align="center"><a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/franckdun/franckdun/main/img/ipfs.gif" alt="IPFS" width="125" height="#"/></a>
+  
+</p>	
 		<p align="center">
         	<a href="#" target="_blank" rel="noreferrer"> 
-       		<img align="center" width="200" height="10" src="https://github.com/franckdun/Img-Banck/blob/main/img/banner1.jpg" alt="franckdun"/></a></p>
-        				   
-	* [x](x)	
-	* [30s of code](https://www.30secondsofcode.org/js/t/node/p/1)	
-	* [OpenClassRooms]()
-	* [xxxxxxxxxxxxxxxx]()	
-	   </td>
-     	   <td width="25%">	<!-- 3eme CLARITY -->
-		<p align="center">🔥<a href="https://github.com/franckdun/CLARITY" target="_blank" rel="noreferrer"><img src="https://github.com/franckdun/Img-Banck/blob/main/img/img/stacks.png" width="40" height=" 40"/></a>🔥</p>			
-		<p align="center">
-        	<a href="#" target="_blank" rel="noreferrer"> 
-       		<img align="center" width="200" height="10" src="https://github.com/franckdun/Img-Banck/blob/main/img/banner1.jpg" alt="franckdun"/></a></p>
+       		<img align="center" width="200" height="10" src="https://github.com/franckdun/Img-Banck/blob/main/img/banner1.jpg" alt="franckdun"/></a>
 		
-	* [x](x)	
-	* [x]()	
-	* [x]()
-	* [xxxxxxxxxxxxxxxx]()	
-	   </td>	
-	   </td>     
-     	   <td width="25%">	<!-- 4eme WEBPACK -->
-		   <p align="center"><a href="https://webpack.js.org/"> <img src="https://img.shields.io/badge/-Webpack-2e71ff?style=for-the-badge&labelColor=white&logo=Webpack&logoColor=2e71ff"> </a></p
-		   
-		<p align="center">
-        	<a href="#" target="_blank" rel="noreferrer"> 
-       		<img align="center" width="200" height="10" src="https://github.com/franckdun/Img-Banck/blob/main/img/banner1.jpg" alt="franckdun"/></a></p>
+</p> 				   
 
-    * [Grafikart](https://www.youtube.com/results?search_query=grafikart+webpack)
-    * [OpenClassRooms](https://openclassrooms.com/forum/sujet/webpack-initiation-et-configuration-de-webpack)
-    * [OpenClassRooms](https://openclassrooms.com/fr/courses/5543061-ecrivez-du-javascript-pour-le-web/5577766-compilez-et-executez-votre-code)
-    * [xxxxxxxxxxxxxxxx]()
-       </td>
-       <td width="25%">	<!-- 1er SEO -->
-		<p align="center">
-		
-🔥[![Made with SEO](https://img.shields.io/badge/SEO-blue?logo=SEO&logoColor=white)](https://github.com/franckdun/Open_Projet-4 "Go to SEO openclassrooms")🔥
-
-</p>		
-        	<p align="center">
-        	<a href="#" target="_blank" rel="noreferrer"> 
-       		<img align="center" width="200" height="10" src="https://github.com/franckdun/Img-Banck/blob/main/img/banner1.jpg" alt="franckdun"/></a></p>
-		
-* [OpenClassRooms](https://github.com/franckdun/Open_Projet-4 "Go to SEO openclassrooms")	
-* [xxxxxxxxxxxxxxxx]()	
-* [xxxxxxxxxxxxxxxx]()
-* [xxxxxxxxxxxxxxxx]()
+<img align="center" src="https://github.com/franckdun/Img-Banck/blob/main/img/github.svg" width="#" height="80" alt="franckdun" /> 
 	   </td>
-	   <td width="25%">	<!-- 2eme IPFS -->
-		<p align="center"><a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/franckdun/franckdun/main/img/ipfs.gif" alt="IPFS" width="125" height="40"/></a></p>	
+           <td width="25%">	<!-- 2eme IPFS -->
+		<p align="center"><a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/franckdun/franckdun/main/img/ipfs.gif" alt="IPFS" width="125" height="#"/></a>
+  
+</p>	
 		<p align="center">
         	<a href="#" target="_blank" rel="noreferrer"> 
-       		<img align="center" width="200" height="10" src="https://github.com/franckdun/Img-Banck/blob/main/img/banner1.jpg" alt="franckdun"/></a></p>
-        				   
-	* [x](x)	
-	* [30s of code](https://www.30secondsofcode.org/js/t/node/p/1)	
-	* [OpenClassRooms]()
-	* [xxxxxxxxxxxxxxxx]()	
-	   </td>
-     	   <td width="25%">	<!-- 3eme CLARITY -->
-		<p align="center">🔥<a href="https://github.com/franckdun/CLARITY" target="_blank" rel="noreferrer"><img src="https://github.com/franckdun/Img-Banck/blob/main/img/img/stacks.png" width="40" height=" 40"/></a>🔥</p>			
-		<p align="center">
-        	<a href="#" target="_blank" rel="noreferrer"> 
-       		<img align="center" width="200" height="10" src="https://github.com/franckdun/Img-Banck/blob/main/img/banner1.jpg" alt="franckdun"/></a></p>
+       		<img align="center" width="200" height="10" src="https://github.com/franckdun/Img-Banck/blob/main/img/banner1.jpg" alt="franckdun"/></a>
 		
-	* [x](x)	
-	* [x]()	
-	* [x]()
-	* [xxxxxxxxxxxxxxxx]()	
-	   </td>	
-	   </td>     
-     	   <td width="25%">	<!-- 4eme WEBPACK -->
-		   <p align="center"><a href="https://webpack.js.org/"> <img src="https://img.shields.io/badge/-Webpack-2e71ff?style=for-the-badge&labelColor=white&logo=Webpack&logoColor=2e71ff"> </a></p
-		   
-		<p align="center">
-        	<a href="#" target="_blank" rel="noreferrer"> 
-       		<img align="center" width="200" height="10" src="https://github.com/franckdun/Img-Banck/blob/main/img/banner1.jpg" alt="franckdun"/></a></p>
+</p> 				   
 
-    * [Grafikart](https://www.youtube.com/results?search_query=grafikart+webpack)
-    * [OpenClassRooms](https://openclassrooms.com/forum/sujet/webpack-initiation-et-configuration-de-webpack)
-    * [OpenClassRooms](https://openclassrooms.com/fr/courses/5543061-ecrivez-du-javascript-pour-le-web/5577766-compilez-et-executez-votre-code)
-    * [xxxxxxxxxxxxxxxx]()
-       </td>
-        <td width="25%">	<!-- 1er SEO -->
-		<p align="center">
-		
-🔥[![Made with SEO](https://img.shields.io/badge/SEO-blue?logo=SEO&logoColor=white)](https://github.com/franckdun/Open_Projet-4 "Go to SEO openclassrooms")🔥
-
-</p>		
-        	<p align="center">
-        	<a href="#" target="_blank" rel="noreferrer"> 
-       		<img align="center" width="200" height="10" src="https://github.com/franckdun/Img-Banck/blob/main/img/banner1.jpg" alt="franckdun"/></a></p>
-		
-* [OpenClassRooms](https://github.com/franckdun/Open_Projet-4 "Go to SEO openclassrooms")	
-* [xxxxxxxxxxxxxxxx]()	
-* [xxxxxxxxxxxxxxxx]()
-* [xxxxxxxxxxxxxxxx]()
+<img align="center" src="https://github.com/franckdun/Img-Banck/blob/main/img/github.svg" width="#" height="80" alt="franckdun" /> 
 	   </td>
-	   <td width="25%">	<!-- 2eme IPFS -->
-		<p align="center"><a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/franckdun/franckdun/main/img/ipfs.gif" alt="IPFS" width="125" height="40"/></a></p>	
+           <td width="25%">	<!-- 2eme IPFS -->
+		<p align="center"><a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/franckdun/franckdun/main/img/ipfs.gif" alt="IPFS" width="125" height="#"/></a>
+  
+</p>	
 		<p align="center">
         	<a href="#" target="_blank" rel="noreferrer"> 
-       		<img align="center" width="200" height="10" src="https://github.com/franckdun/Img-Banck/blob/main/img/banner1.jpg" alt="franckdun"/></a></p>
-        				   
-	* [x](x)	
-	* [30s of code](https://www.30secondsofcode.org/js/t/node/p/1)	
-	* [OpenClassRooms]()
-	* [xxxxxxxxxxxxxxxx]()	
-	   </td>
-     	   <td width="25%">	<!-- 3eme CLARITY -->
-		<p align="center">🔥<a href="https://github.com/franckdun/CLARITY" target="_blank" rel="noreferrer"><img src="https://github.com/franckdun/Img-Banck/blob/main/img/img/stacks.png" width="40" height=" 40"/></a>🔥</p>			
-		<p align="center">
-        	<a href="#" target="_blank" rel="noreferrer"> 
-       		<img align="center" width="200" height="10" src="https://github.com/franckdun/Img-Banck/blob/main/img/banner1.jpg" alt="franckdun"/></a></p>
+       		<img align="center" width="200" height="10" src="https://github.com/franckdun/Img-Banck/blob/main/img/banner1.jpg" alt="franckdun"/></a>
 		
-	* [x](x)	
-	* [x]()	
-	* [x]()
-	* [xxxxxxxxxxxxxxxx]()	
-	   </td>	
-	   </td>     
-     	   <td width="25%">	<!-- 4eme WEBPACK -->
-		   <p align="center"><a href="https://webpack.js.org/"> <img src="https://img.shields.io/badge/-Webpack-2e71ff?style=for-the-badge&labelColor=white&logo=Webpack&logoColor=2e71ff"> </a></p
-		   
-		<p align="center">
-        	<a href="#" target="_blank" rel="noreferrer"> 
-       		<img align="center" width="200" height="10" src="https://github.com/franckdun/Img-Banck/blob/main/img/banner1.jpg" alt="franckdun"/></a></p>
+</p> 				   
 
-    * [Grafikart](https://www.youtube.com/results?search_query=grafikart+webpack)
-    * [OpenClassRooms](https://openclassrooms.com/forum/sujet/webpack-initiation-et-configuration-de-webpack)
-    * [OpenClassRooms](https://openclassrooms.com/fr/courses/5543061-ecrivez-du-javascript-pour-le-web/5577766-compilez-et-executez-votre-code)
-    * [xxxxxxxxxxxxxxxx]()
-       </td>
-       <td width="25%">	<!-- 1er SEO -->
-		<p align="center">
-		
-🔥[![Made with SEO](https://img.shields.io/badge/SEO-blue?logo=SEO&logoColor=white)](https://github.com/franckdun/Open_Projet-4 "Go to SEO openclassrooms")🔥
-
-</p>		
-        	<p align="center">
-        	<a href="#" target="_blank" rel="noreferrer"> 
-       		<img align="center" width="200" height="10" src="https://github.com/franckdun/Img-Banck/blob/main/img/banner1.jpg" alt="franckdun"/></a></p>
-		
-* [OpenClassRooms](https://github.com/franckdun/Open_Projet-4 "Go to SEO openclassrooms")	
-* [xxxxxxxxxxxxxxxx]()	
-* [xxxxxxxxxxxxxxxx]()
-* [xxxxxxxxxxxxxxxx]()
+<img align="center" src="https://github.com/franckdun/Img-Banck/blob/main/img/github.svg" width="#" height="80" alt="franckdun" /> 
 	   </td>
-	   <td width="25%">	<!-- 2eme IPFS -->
-		<p align="center"><a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/franckdun/franckdun/main/img/ipfs.gif" alt="IPFS" width="125" height="40"/></a></p>	
+           <td width="25%">	<!-- 2eme IPFS -->
+		<p align="center"><a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/franckdun/franckdun/main/img/ipfs.gif" alt="IPFS" width="125" height="#"/></a>
+  
+</p>	
 		<p align="center">
         	<a href="#" target="_blank" rel="noreferrer"> 
-       		<img align="center" width="200" height="10" src="https://github.com/franckdun/Img-Banck/blob/main/img/banner1.jpg" alt="franckdun"/></a></p>
-        				   
-	* [x](x)	
-	* [30s of code](https://www.30secondsofcode.org/js/t/node/p/1)	
-	* [OpenClassRooms]()
-	* [xxxxxxxxxxxxxxxx]()	
-	   </td>
-     	   <td width="25%">	<!-- 3eme CLARITY -->
-		<p align="center">🔥<a href="https://github.com/franckdun/CLARITY" target="_blank" rel="noreferrer"><img src="https://github.com/franckdun/Img-Banck/blob/main/img/img/stacks.png" width="40" height=" 40"/></a>🔥</p>			
-		<p align="center">
-        	<a href="#" target="_blank" rel="noreferrer"> 
-       		<img align="center" width="200" height="10" src="https://github.com/franckdun/Img-Banck/blob/main/img/banner1.jpg" alt="franckdun"/></a></p>
+       		<img align="center" width="200" height="10" src="https://github.com/franckdun/Img-Banck/blob/main/img/banner1.jpg" alt="franckdun"/></a>
 		
-	* [x](x)	
-	* [x]()	
-	* [x]()
-	* [xxxxxxxxxxxxxxxx]()	
-	   </td>	
-	   </td>     
-     	   <td width="25%">	<!-- 4eme WEBPACK -->
-		   <p align="center"><a href="https://webpack.js.org/"> <img src="https://img.shields.io/badge/-Webpack-2e71ff?style=for-the-badge&labelColor=white&logo=Webpack&logoColor=2e71ff"> </a></p
-		   
+</p> 				   
+
+<img align="center" src="https://github.com/franckdun/Img-Banck/blob/main/img/github.svg" width="#" height="80" alt="franckdun" /> 
+	   </td>
+           <td width="25%">	<!-- 2eme IPFS -->
+		<p align="center"><a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/franckdun/franckdun/main/img/ipfs.gif" alt="IPFS" width="125" height="#"/></a>
+  
+</p>	
 		<p align="center">
         	<a href="#" target="_blank" rel="noreferrer"> 
-       		<img align="center" width="200" height="10" src="https://github.com/franckdun/Img-Banck/blob/main/img/banner1.jpg" alt="franckdun"/></a></p>
+       		<img align="center" width="200" height="10" src="https://github.com/franckdun/Img-Banck/blob/main/img/banner1.jpg" alt="franckdun"/></a>
+		
+</p> 				   
 
-    * [Grafikart](https://www.youtube.com/results?search_query=grafikart+webpack)
-    * [OpenClassRooms](https://openclassrooms.com/forum/sujet/webpack-initiation-et-configuration-de-webpack)
-    * [OpenClassRooms](https://openclassrooms.com/fr/courses/5543061-ecrivez-du-javascript-pour-le-web/5577766-compilez-et-executez-votre-code)
-    * [xxxxxxxxxxxxxxxx]()
-       </td>
+<img align="center" src="https://github.com/franckdun/Img-Banck/blob/main/img/github.svg" width="#" height="80" alt="franckdun" /> 
+	   </td>
+           <td width="25%">	<!-- 2eme IPFS -->
+		<p align="center"><a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/franckdun/franckdun/main/img/ipfs.gif" alt="IPFS" width="125" height="#"/></a>
+  
+</p>	
+		<p align="center">
+        	<a href="#" target="_blank" rel="noreferrer"> 
+       		<img align="center" width="200" height="10" src="https://github.com/franckdun/Img-Banck/blob/main/img/banner1.jpg" alt="franckdun"/></a>
+		
+</p> 				   
+
+<img align="center" src="https://github.com/franckdun/Img-Banck/blob/main/img/github.svg" width="#" height="80" alt="franckdun" /> 
+	   </td>
+           <td width="25%">	<!-- 2eme IPFS -->
+		<p align="center"><a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/franckdun/franckdun/main/img/ipfs.gif" alt="IPFS" width="125" height="#"/></a>
+  
+</p>	
+		<p align="center">
+        	<a href="#" target="_blank" rel="noreferrer"> 
+       		<img align="center" width="200" height="10" src="https://github.com/franckdun/Img-Banck/blob/main/img/banner1.jpg" alt="franckdun"/></a>
+		
+</p> 				   
+
+<img align="center" src="https://github.com/franckdun/Img-Banck/blob/main/img/github.svg" width="#" height="80" alt="franckdun" /> 
+	   </td>
+           <td width="25%">	<!-- 2eme IPFS -->
+		<p align="center"><a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/franckdun/franckdun/main/img/ipfs.gif" alt="IPFS" width="125" height="#"/></a>
+  
+</p>	
+		<p align="center">
+        	<a href="#" target="_blank" rel="noreferrer"> 
+       		<img align="center" width="200" height="10" src="https://github.com/franckdun/Img-Banck/blob/main/img/banner1.jpg" alt="franckdun"/></a>
+		
+</p> 				   
+
+<img align="center" src="https://github.com/franckdun/Img-Banck/blob/main/img/github.svg" width="#" height="80" alt="franckdun" /> 
+	   </td>          
     </tr>
 
  </table>
