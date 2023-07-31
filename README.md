@@ -383,20 +383,12 @@ Nota Bene
 9)
 <!--////////////////////////////////// TABLE 9 \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\-->
 
-<div>
+<div align="center">
   <table>
-	<tr width="1000px">  
-	   <td width="25%">	<!-- Zonebiz -->
-		<p align="center"><a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/franckdun/franckdun/main/img/ipfs.gif" alt="IPFS" width="200" height="0"/></a>
-  
-</p>	
-		<p align="center"><a href="#" target="_blank" rel="noreferrer"> <img src="https://github.com/franckdun/zonebiz/blob/main/images/readme.PNG" alt="franckdun" width="200" height="#"/></a>
-  
-</p>
-		<p align="center"><a href="https://github.com/franckdun/zonebiz" target="_blank" rel="noreferrer">Zonebiz</a></p>
-		   <p align="center"><a href="#" target="_blank" rel="noreferrer"><img width="200" height="10" src="https://github.com/franckdun/Img-Banck/blob/main/img/banner1.jpg" alt="franckdun"/></a>
-</p>
-	   </td>
+	<tr width="#">  
+	   <td width="#">	<!-- Zonebiz -->
+		<p align="center"><a href="https://github.com/franckdun/zonebiz" target="_blank" rel="noreferrer">_________Zonebiz_________</a></p>
+		<p align="center"><a href="https://franckdun.github.io/zonebiz/" target="_blank" rel="noreferrer"> <img src="https://github.com/franckdun/zonebiz/blob/main/images/readme.PNG" alt="franckdun" width="200" height="100"/></a></p>         
            <td width="25%">	<!-- 2eme IPFS -->
 		<p align="center"><a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/franckdun/franckdun/main/img/ipfs.gif" alt="IPFS" width="125" height="#"/></a>
   
