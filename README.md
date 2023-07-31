@@ -388,7 +388,20 @@ Nota Bene
 	<tr width="#">  
 	   <td width="#">	<!-- Zonebiz -->
 		<p align="center"><a href="https://github.com/franckdun/zonebiz" target="_blank" rel="noreferrer">_________Zonebiz_________</a></p>
-		<p align="center"><a href="https://franckdun.github.io/zonebiz/" target="_blank" rel="noreferrer"> <img src="https://github.com/franckdun/zonebiz/blob/main/images/readme.PNG" alt="franckdun" width="200" height="100"/></a></p>         
+		<p align="center"><a href="https://franckdun.github.io/zonebiz/" target="_blank" rel="noreferrer"> <img src="https://github.com/franckdun/zonebiz/blob/main/images/readme.PNG" alt="franckdun" width="200" height="100"/></a></p>
+           </td>
+           <td width="#">	<!-- Zonebiz -->
+		<p align="center"><a href="https://github.com/franckdun/zonebiz" target="_blank" rel="noreferrer">_________Zonebiz_________</a></p>
+		<p align="center"><a href="https://franckdun.github.io/zonebiz/" target="_blank" rel="noreferrer"> <img src="https://github.com/franckdun/zonebiz/blob/main/images/readme.PNG" alt="franckdun" width="200" height="100"/></a></p>
+           </td>
+           <td width="#">	<!-- Zonebiz -->
+		<p align="center"><a href="https://github.com/franckdun/zonebiz" target="_blank" rel="noreferrer">_________Zonebiz_________</a></p>
+		<p align="center"><a href="https://franckdun.github.io/zonebiz/" target="_blank" rel="noreferrer"> <img src="https://github.com/franckdun/zonebiz/blob/main/images/readme.PNG" alt="franckdun" width="200" height="100"/></a></p>
+           </td>
+           <td width="#">	<!-- Zonebiz -->
+		<p align="center"><a href="https://github.com/franckdun/zonebiz" target="_blank" rel="noreferrer">_________*******_________</a></p>
+		<p align="center"><a href="#" target="_blank" rel="noreferrer"> <img align="#" src="https://github.com/franckdun/Img-Banck/blob/main/img/github.svg" width="#" height="100" alt="franckdun" /> </a></p>
+           </td>
            <td width="25%">	<!-- 2eme IPFS -->
 		<p align="center"><a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/franckdun/franckdun/main/img/ipfs.gif" alt="IPFS" width="125" height="#"/></a>
   
