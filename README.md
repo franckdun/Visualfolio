@@ -383,7 +383,7 @@ Nota Bene
 9)
 <!--////////////////////////////////// TABLE 9 \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\-->
 
-<div align="center">
+<div>
   <table>
 	<tr width="1000px">  
 	   <td width="25%">	<!-- Zonebiz -->
