@@ -387,7 +387,7 @@ Nota Bene
   <table>
 	<tr width="#">  
 	   <td width="#">	<!-- Zonebiz -->
-		<p align="center"><a href="https://github.com/franckdun/zonebiz" target="_blank" rel="noreferrer">_________Zonebiz_________</a></p>
+		<p align="center"><a href="https://github.com/franckdun/zonebiz" target="_blank" rel="noreferrer">__________Zonebiz__________</a></p>
 		<p align="center"><a href="https://franckdun.github.io/zonebiz/" target="_blank" rel="noreferrer"> <img src="https://github.com/franckdun/zonebiz/blob/main/images/readme.PNG" alt="franckdun" width="200" height="100"/></a></p>
            </td>
 	   <td width="#">
