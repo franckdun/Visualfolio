@@ -74,7 +74,7 @@ Nota Bene
 				<p align="center">
 					<a href="https://franckdun.github.io/Random-quote-cards/" target="_blank" rel="noreferrer">
 						<img align="center" src="https://github.com/franckdun/Random-quote-cards/blob/main/img/readme3.PNG"
-							width="600" height="#" alt="franckdun" /></a>
+							width="400" height="#" alt="franckdun" /></a>
 				</p>
 			</td>
                         </tr>
