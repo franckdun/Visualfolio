@@ -62,51 +62,7 @@ Nota Bene
  </table>
 </div>
 
-1) 
-<!--////////////////////////////////// TABLE 1 \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\-->
-<div align="center">
-	<table>
-		<tr width="100%">
-			<td width="25%">
-				<p align="center"><a href="https://github.com/franckdun/zonebiz" target="_blank" rel="noreferrer">Zonebiz</a></p>
-						<p align="center">
-							<a href="https://franckdun.github.io/zonebiz/" target="_blank" rel="noreferrer">
-								<img align="center" src="https://github.com/franckdun/zonebiz/blob/main/images/readme.PNG"
-									width="200px" height="80px" alt="franckdun" /></a>
-						</p>
-			</td>
-			<td width="25%">
-				<p align="center"><a href="https://github.com/franckdun/Wave-Menu" target="_blank"
-						rel="noreferrer">Wave-Menu</a></p>
-				<p align="center">
-					<a href="https://franckdun.github.io/Wave-Menu/" target="_blank" rel="noreferrer">
-						<img align="center" src="https://github.com/franckdun/Wave-Menu/blob/main/img/readme1.PNG"
-							width="200px" height="80px" alt="franckdun" /></a>
-				</p>
-			</td>
-			<td width="25%">
-				<p align="center"><a href="https://github.com/franckdun/Glitch" target="_blank"
-						rel="noreferrer">Glitch</a></p>
-				<p align="center">
-					<a href="https://franckdun.github.io/Glitch/" target="_blank" rel="noreferrer">
-						<img align="center" src="https://github.com/franckdun/Glitch/blob/main/img/readme1.PNG"
-							width="200px" height="80px" alt="franckdun" /></a>
-				</p>
-			</td>
-			<td width="25%">
-				<p align="center"><a href="https://github.com/franckdun/leroy" target="_blank" rel="noreferrer">Leroy
-						</a< /p>
-						<p align="center">
-							<a href="https://franckdun.github.io/leroy/" target="_blank" rel="noreferrer">
-								<img align="center" src="https://github.com/franckdun/leroy/blob/main/img/readme.PNG"
-									width="200px" height="80px" alt="franckdun" /></a>
-						</p>
-			</td>
-		</tr>
-	</table>
-</div>
 
---- 
 2) 
 <!--////////////////////////////////// TABLE 2 \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\-->
 <div align="center">
