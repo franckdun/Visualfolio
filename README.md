@@ -62,7 +62,9 @@ Nota Bene
  </table>
 </div>
 
+---
 
+1) 
 <div align="center">
 	<table>
 		<tr width="100%">
