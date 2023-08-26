@@ -103,34 +103,6 @@ Nota Bene
 							width="200px" height="80px" alt="franckdun" /></a>
 				</p>
 			</td>
-			<td width="25%">
-				<p align="center"><a href="https://github.com/franckdun/Super-dashgum" target="_blank"
-						rel="noreferrer">Super...</a></p>
-				<p align="center">
-					<a href="https://franckdun.github.io/Super-dashgum/" target="_blank" rel="noreferrer">
-						<img align="center" src="https://github.com/franckdun/Super-dashgum/blob/main/readme.PNG"
-							width="200px" height="80px" alt="franckdun" /></a>
-				</p>
-			</td>
-			<td width="25%">
-				<p align="center"><a href="https://github.com/franckdun/responHomePage" target="_blank"
-						rel="noreferrer">respon...⚠️</a</p>
-						<p align="center">
-							<a href="https://franckdun.github.io/responHomePage/" target="_blank" rel="noreferrer">
-								<img align="center"
-									src="https://github.com/franckdun/responHomePage/blob/main/img/readme.PNG"
-									width="200px" height="80px" alt="franckdun" /></a>
-						</p>
-			</td>
-			<td width="25%">
-				<p align="center"><a href="https://github.com/franckdun/Water-Ripple" target="_blank"
-						rel="noreferrer">Water...</a></p>
-				<p align="center">
-					<a href="https://franckdun.github.io/water-Ripple" target="_blank" rel="noreferrer">
-						<img align="center" src="https://github.com/franckdun/water-Ripple/blob/main/img/readme.PNG"
-							width="200px" height="80px" alt="franckdun" /></a>
-				</p>
-			</td>
 		</tr>
 	</table>
 </div>
