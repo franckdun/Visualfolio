@@ -36,10 +36,7 @@ Nota Bene
 	   <td width="#"><p align="center"><a href="https://github.com/franckdun/responHomePage" target="_blank" rel="noreferrer">_______respon_______</a>⚠️</p><p align="center"><a href="https://franckdun.github.io/responHomePage/" target="_blank" rel="noreferrer"><img align="center" src="https://github.com/franckdun/responHomePage/blob/main/img/readme.PNG" width="200px" height="80px" alt="franckdun" /></a></p>
 	   </td>
 	   <td width="#"><p align="center"><a href="https://github.com/franckdun/Water-Ripple" target="_blank" rel="noreferrer">_________Water__________</a></p><p align="center"><a href="https://franckdun.github.io/water-Ripple" target="_blank" rel="noreferrer"><img align="center" src="https://github.com/franckdun/water-Ripple/blob/main/img/readme.PNG" width="200px" height="80px" alt="franckdun" /></a></p>
-	  </td><td width="#">	<!-- Zonebiz -->
-		<p align="center"><a href="https://github.com/franckdun/zonebiz" target="_blank" rel="noreferrer">_________Zonebiz_________</a></p>
-		<p align="center"><a href="https://franckdun.github.io/zonebiz/" target="_blank" rel="noreferrer"> <img src="https://github.com/franckdun/zonebiz/blob/main/images/readme.PNG" alt="franckdun" width="200" height="100"/></a></p>
-           </td>
+	  </td>
 	   <td width="#">
 		<p align="center"><a href="https://github.com/franckdun/3DMenu" target="_blank" rel="noreferrer">_________3DMenu_________</a></p>
 		<p align="center"><a href="https://franckdun.github.io/3DMenu/" target="_blank" rel="noreferrer"><img align="center" src="https://github.com/franckdun/3DMenu/blob/main/img/readme02.PNG" width="200" height="100" alt="franckdun" /></a></p>
@@ -126,53 +123,7 @@ Nota Bene
 </div>
 
 ---
-3)
-<!--////////////////////////////////// TABLE 3 \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\-->
-<div align="center">
-	<table>
-		<tr width="100%">
-			<td width="25%">
-				<p align="center"><a href="https://github.com/franckdun/3DMenu" target="_blank"
-						rel="noreferrer">3DMenu</a></p>
-				<p align="center">
-					<a href="https://franckdun.github.io/3DMenu/" target="_blank" rel="noreferrer">
-						<img align="center" src="https://github.com/franckdun/3DMenu/blob/main/img/readme02.PNG"
-							width="200px" height="80px" alt="franckdun" /></a>
-				</p>
-			</td>
-			<td width="25%">
-				<p align="center"><a href="https://github.com/franckdun/Bgd_gradient001" target="_blank"
-						rel="noreferrer">Bgd_gra...</a></p>
-				<p align="center">
-					<a href="https://franckdun.github.io/Bgd_gradient001/" target="_blank" rel="noreferrer">
-						<img align="center" src="https://github.com/franckdun/Bgd_gradient001/blob/main/img/readme1.PNG"
-							width="200px" height="80px" alt="franckdun" /></a>
-				</p>
-			</td>
-			<td width="25%">
-				<p align="center"><a href="https://github.com/franckdun/github-corners" target="_blank"
-						rel="noreferrer">github-corners</a> </p>
-				<p align="center">
-					<a href="https://franckdun.github.io/github-corners/" target="_blank" rel="noreferrer">
-						<img align="center" src="https://github.com/franckdun/github-corners/blob/master/img/readme.PNG"
-							width="200px" height="80px" alt="franckdun" /></a>
-				</p>
-			</td>
-			<td width="25%">
-				<p align="center"><a href="https://github.com/franckdun/button3DcodePen" target="_blank"
-						rel="noreferrer">button3D</a></p>
-				<p align="center">
-					<a href="https://franckdun.github.io/button3DcodePen/" target="_blank" rel="noreferrer">
-						<img align="center"
-							src="https://github.com/franckdun/button3DcodePen/blob/main/src/README.PNG"
-							width="200px" height="80px" alt="franckdun" /></a>
-				</p>
-			</td>
-		</tr>
-	</table>
-</div>
 
---- 
 4)
 <!--////////////////////////////////// TABLE 4 \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\-->
 <div align="center">
