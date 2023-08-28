@@ -318,15 +318,6 @@ Nota Bene
 	<table>
 		<tr width="100%">
 			<td width="25%">
-				<p align="center"><a href="https://github.com/franckdun/Random-quote-cards" target="_blank" rel="noreferrer">Random-quote-cards</a>
-				</p>
-				<p align="center">
-					<a href="https://franckdun.github.io/Random-quote-cards/" target="_blank" rel="noreferrer">
-						<img align="center" src="https://github.com/franckdun/Random-quote-cards/blob/main/img/readme3.PNG"
-							width="200px" height="80px" alt="franckdun" /></a>
-				</p>
-			</td>
-			<td width="25%">
 				<p align="center"><a href="https://github.com/franckdun/Dominic" target="_blank"
 						rel="noreferrer">Dominic</a></p>
 				<p align="center">
