@@ -8,9 +8,7 @@ Nota Bene
 > **Warning**
 > En cours de modifications.
 
-0)
-<!--////////////////////////////////// TABLE 0 \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\-->
-
+0)<!--////////////////////////////////// TABLE 0 \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\-->
 <div align="center">
   <table>
 	<tr width="#">  
@@ -103,8 +101,8 @@ Nota Bene
 </div>
 
 ---
-<!--////////////////////////////////// TABLE 1 \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\-->
-1) 
+
+1)<!--////////////////////////////////// TABLE 1 \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\--> 
 <div align="center">
 	<table>
 		<tr width="100%">
@@ -171,8 +169,7 @@ Nota Bene
 </div>
 
 --- 
-7)
-<!--////////////////////////////////// TABLE 7 \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\-->
+7)<!--////////////////////////////////// TABLE 7 \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\-->
 <div align="center">
 	<table>
 		<tr>
@@ -217,8 +214,7 @@ Nota Bene
 </div>
 
 --- 
-8)
-<!--////////////////////////////////// TABLE 8 \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\-->
+8)<!--////////////////////////////////// TABLE 8 \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\-->
 <div align="center">
 	<table>
 		<tr width="100%">
@@ -252,40 +248,6 @@ Nota Bene
 	</table>
 </div>
 
-<!--////////////////////////////////// TABLE 0 \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\-->
-
-<div align="center">
-  <table>
-	<tr width="#">  
-	   <td width="#">	<!-- Zonebiz -->
-		<p align="center"><a href="https://github.com/franckdun/zonebiz" target="_blank" rel="noreferrer">__________Zonebiz__________</a></p>
-		<p align="center"><a href="https://franckdun.github.io/zonebiz/" target="_blank" rel="noreferrer"> <img src="https://github.com/franckdun/zonebiz/blob/main/images/readme.PNG" alt="franckdun" width="200" height="100"/></a></p>
-           </td>
-	   <td width="#">
-		<p align="center"><a href="https://github.com/franckdun/Wave-Menu" target="_blank" rel="noreferrer">________WaveMenu_________</a></p>
-		<p align="center"><a href="https://franckdun.github.io/Wave-Menu/" target="_blank" rel="noreferrer"><img align="center" src="https://github.com/franckdun/Wave-Menu/blob/main/img/readme1.PNG" width="200" height="100" alt="franckdun" /></a></p>
-	   </td>
-	   <!-- ... (other cells) ... -->
-	   <td width="#">	<!-- 002_Anim-texte-js -->
-		<p align="center"><a href="https://github.com/franckdun/002_Anim-texte-js" target="_blank" rel="noreferrer">_________Animtextejs_________</a></p>
-		<p align="center"><a href="https://franckdun.github.io/002_Anim-texte-js/" target="_blank" rel="noreferrer"><img align="center" src="https://github.com/franckdun/002_Anim-texte-js/blob/main/img/AnimReact1.PNG" width="200" height="100" alt="franckdun" /></a></p>
-	   </td>
-	   <td width="#">	<!-- cours-react-1 -->
-		<p align="center"><a href="https://github.com/franckdun/cours-react-1" target="_blank" rel="noreferrer">_________coursreact1_________</a>ℹ️</p>
-		<p align="center"><a href="https://github.com/franckdun/cours-react-1" target="_blank" rel="noreferrer"><img align="center" src="https://user-images.githubusercontent.com/40036047/169093863-fbe8a43c-ae11-4d0e-8a8a-36a230efc3ec.PNG" width="200" height="100" alt="franckdun" /></a></p>
-	   </td>
-	   <td width="#">	<!-- react-deploy-001 -->
-		<p align="center"><a href="https://github.com/franckdun/react-deploy-001" target="_blank" rel="noreferrer">_________reactdeploy001_________</a></p>
-		<p align="center"><a href="https://franckdun.github.io/react-deploy-001/" target="_blank" rel="noreferrer"><img align="center" src="https://github.com/franckdun/react-deploy-001/blob/main/img/readme.PNG" width="200" height="100" alt="franckdun" /></a></p>
-	   </td>
-	   <td width="#">	<!-- accueil-canadien -->
-		<p align="center"><a href="https://github.com/franckdun/accueil-canadien" target="_blank" rel="noreferrer">_________accueilcanadien_________</a></p>
-		<p align="center"><a href="https://franckdun.github.io/accueil-canadien/" target="_blank" rel="noreferrer"><img align="center" src="https://user-images.githubusercontent.com/40036047/167667895-54ec707c-0681-4096-83df-7f92346f0b4b.PNG" width="200" height="100" alt="franckdun" /></a></p>
-	   </td>
-	   <!-- ... (remaining cells) ... -->
-    </tr>
- </table>
-</div>
 
 
 
