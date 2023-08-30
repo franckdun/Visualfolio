@@ -77,6 +77,24 @@ Nota Bene
 	   <p align="center"><a href="https://github.com/franckdun/timeline" target="_blank" rel="noreferrer">_________timeline_________</a>ℹ️</p>
 	   <p align="center"><a href="https://franckdun.github.io/timeline" target="_blank" rel="noreferrer"><img align="center" src="https://github.com/franckdun/timeline/blob/main/img/Classiques.PNG" width="200" height="100" alt="franckdun" /></a>
 	   </p></td>
+	    <!-- ... (other cells) ... -->
+	   <td width="#">	<!-- 002_Anim-texte-js -->
+		<p align="center"><a href="https://github.com/franckdun/002_Anim-texte-js" target="_blank" rel="noreferrer">_________Animtextejs_________</a></p>
+		<p align="center"><a href="https://franckdun.github.io/002_Anim-texte-js/" target="_blank" rel="noreferrer"><img align="center" src="https://github.com/franckdun/002_Anim-texte-js/blob/main/img/AnimReact1.PNG" width="200" height="100" alt="franckdun" /></a></p>
+	   </td>
+	   <td width="#">	<!-- cours-react-1 -->
+		<p align="center"><a href="https://github.com/franckdun/cours-react-1" target="_blank" rel="noreferrer">_________coursreact1_________</a>ℹ️</p>
+		<p align="center"><a href="https://github.com/franckdun/cours-react-1" target="_blank" rel="noreferrer"><img align="center" src="https://user-images.githubusercontent.com/40036047/169093863-fbe8a43c-ae11-4d0e-8a8a-36a230efc3ec.PNG" width="200" height="100" alt="franckdun" /></a></p>
+	   </td>
+	   <td width="#">	<!-- react-deploy-001 -->
+		<p align="center"><a href="https://github.com/franckdun/react-deploy-001" target="_blank" rel="noreferrer">_________reactdeploy001_________</a></p>
+		<p align="center"><a href="https://franckdun.github.io/react-deploy-001/" target="_blank" rel="noreferrer"><img align="center" src="https://github.com/franckdun/react-deploy-001/blob/main/img/readme.PNG" width="200" height="100" alt="franckdun" /></a></p>
+	   </td>
+	   <td width="#">	<!-- accueil-canadien -->
+		<p align="center"><a href="https://github.com/franckdun/accueil-canadien" target="_blank" rel="noreferrer">_________accueilcanadien_________</a></p>
+		<p align="center"><a href="https://franckdun.github.io/accueil-canadien/" target="_blank" rel="noreferrer"><img align="center" src="https://user-images.githubusercontent.com/40036047/167667895-54ec707c-0681-4096-83df-7f92346f0b4b.PNG" width="200" height="100" alt="franckdun" /></a></p>
+	   </td>
+	   <!-- ... (remaining cells) ... -->
            <td width="#">	<!-- Github -->
 		<p align="center"><a href="https://github.com/franckdun/zonebiz" target="_blank" rel="noreferrer">_________*******_________</a></p>
 		<p align="center"><a href="#" target="_blank" rel="noreferrer"> <img align="#" src="https://github.com/franckdun/Img-Banck/blob/main/img/github.svg" width="#" height="100" alt="franckdun" /> </a></p>
