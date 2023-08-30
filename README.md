@@ -59,6 +59,24 @@ Nota Bene
 	   <p align="center"><a href="https://github.com/franckdun/ParaScroll" target="_blank" rel="noreferrer">_________ParaScroll_________</a></p>
 	   <p align="center"><a href="https://franckdun.github.io/ParaScroll/" target="_blank" rel="noreferrer"><img align="center" src="https://github.com/franckdun/ParaScroll/blob/main/img/readme.PNG" width="200" height="100" alt="franckdun" /></a></p>
 	   </td>
+	   <td width="#">
+	   <p align="center"><a href="https://github.com/franckdun/curseur-perso" target="_blank" rel="noreferrer">_________curseur_________</a></p>
+	   <p align="center"><a href="https://franckdun.github.io/curseur-perso/" target="_blank" rel="noreferrer"> <img align="center"
+							src="https://github.com/franckdun/curseur-perso/blob/main/src/img/README.PNG"
+							width="200" height="100" alt="franckdun" /></a></p>
+	   </td>
+	   <td width="#">
+	   <p align="center"><a href="https://github.com/franckdun/jeu-de-devinette" target="_blank" rel="noreferrer">_________jeu_________ ⚠️</a></p>
+	   <p align="center"><a href="https://franckdun.github.io/jeu-de-devinette/" target="_blank" rel="noreferrer"><img align="center" src="https://user-images.githubusercontent.com/40036047/168306592-3b653d14-901c-4d0d-8cb3-957937ae6284.PNG" width="200" height="100" alt="franckdun" /></a></p>
+	   </td>
+	   <td width="#">
+           <p align="center"><a href="https://github.com/franckdun/neuro-morphisme" target="_blank" rel="noreferrer">_________neuro_________</a></p>
+	   <p align="center"><a href="https://franckdun.github.io/neuro-morphisme" rel="noreferrer"><img align="center" src="https://github.com/franckdun/neuro-morphisme/blob/main/src/css/bouton.PNG" width="200" height="100" alt="franckdun" /></a></p>
+	   </td>
+	   <td width="#">
+	   <p align="center"><a href="https://github.com/franckdun/timeline" target="_blank" rel="noreferrer">_________timeline_________</a>ℹ️</p>
+	   <p align="center"><a href="https://franckdun.github.io/timeline" target="_blank" rel="noreferrer"><img align="center" src="https://github.com/franckdun/timeline/blob/main/img/Classiques.PNG" width="200" height="100" alt="franckdun" /></a>
+	   </p></td>
            <td width="#">	<!-- Github -->
 		<p align="center"><a href="https://github.com/franckdun/zonebiz" target="_blank" rel="noreferrer">_________*******_________</a></p>
 		<p align="center"><a href="#" target="_blank" rel="noreferrer"> <img align="#" src="https://github.com/franckdun/Img-Banck/blob/main/img/github.svg" width="#" height="100" alt="franckdun" /> </a></p>
