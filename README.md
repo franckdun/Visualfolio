@@ -106,27 +106,6 @@ Nota Bene
 	</table>
 </div>
 
----
-
-2) 
-<!--////////////////////////////////// TABLE 2 \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\-->
-<div align="center">
-	<table>
-		<tr width="100%">
-			<td width="25%">
-				<p align="center"><a href="https://github.com/franckdun/ParaScroll" target="_blank"
-						rel="noreferrer">ParaScroll</a></p>
-				<p align="center">
-					<a href="https://franckdun.github.io/ParaScroll/" target="_blank" rel="noreferrer">
-						<img align="center" src="https://github.com/franckdun/ParaScroll/blob/main/img/readme.PNG"
-							width="200px" height="80px" alt="franckdun" /></a>
-				</p>
-			</td>
-		</tr>
-	</table>
-</div>
-
----
 
 4)
 <!--////////////////////////////////// TABLE 4 \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\-->
