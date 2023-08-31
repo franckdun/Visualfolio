@@ -134,10 +134,6 @@ Nota Bene
 	   <p align="center"><a href="https://github.com/franckdun/Moustache-Nounou" target="_blank" rel="noreferrer">_________Moustache_________</a></p>
 	   <p align="center"><a href="https://franckdun.github.io/Moustache-Nounou/" target="_blank" rel="noreferrer"><img align="center" src="https://github.com/franckdun/Moustache-Nounou/blob/main/img/readme.PNG" width="200" height="100" alt="franckdun" /></a></p>
 	   </td>
-	   <td width="#">
-	   <p align="center"><a href="https://github.com/franckdun/" target="_blank" rel="noreferrer">#</a></p>
-	   <p align="center"><a href="https://github.com/franckdun/" target="_blank" rel="noreferrer"><img align="center" src="https://github.com/franckdun/Img-Banck/blob/main/img/github.svg" width="200" height="100" alt="franckdun" /></a></p>
-	   </td>
            <td width="#">	<!-- Github -->
 		<p align="center"><a href="https://github.com/franckdun/zonebiz" target="_blank" rel="noreferrer">_________*******_________</a></p>
 		<p align="center"><a href="#" target="_blank" rel="noreferrer"> <img align="#" src="https://github.com/franckdun/Img-Banck/blob/main/img/github.svg" width="#" height="100" alt="franckdun" /> </a></p>
@@ -162,41 +158,6 @@ Nota Bene
 				</p>
 			</td>
                         </tr>
-	</table>
-</div>
-
-
-8)<!--////////////////////////////////// TABLE 8 \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\-->
-<div align="center">
-	<table>
-		<tr width="100%">
-			<td width="25%">
-				<p align="center"><a href="https://github.com/franckdun/Dominic" target="_blank"
-						rel="noreferrer">Dominic</a></p>
-				<p align="center">
-					<a href="https://franckdun.github.io/Dominic/" target="_blank" rel="noreferrer">
-						<img align="center" src="https://github.com/franckdun/Dominic/blob/main/images/readme1.PNG"
-							width="200px" height="80px" alt="franckdun" /></a>
-				</p>
-			</td>
-			<td width="25%">
-				<p align="center"><a href="https://github.com/franckdun/Moustache-Nounou" target="_blank"
-						rel="noreferrer">Moustache-N</a></p>
-				<p align="center">
-					<a href="https://franckdun.github.io/Moustache-Nounou/" target="_blank" rel="noreferrer">
-						<img align="center" src="https://github.com/franckdun/Moustache-Nounou/blob/main/img/readme.PNG"
-							width="200px" height="80px" alt="franckdun" /></a>
-				</p>
-			</td>
-			<td width="25%">
-				<p align="center"><a href="https://github.com/franckdun/" target="_blank" rel="noreferrer">#</a></p>
-						<p align="center">
-							<a href="https://github.com/franckdun/" target="_blank" rel="noreferrer">
-								<img align="center" src="https://github.com/franckdun/Img-Banck/blob/main/img/github.svg"
-									width="200px" height="80px" alt="franckdun" /></a>
-						</p>
-			</td>
-		</tr>
 	</table>
 </div>
 
